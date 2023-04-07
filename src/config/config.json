@@ -1,0 +1,30 @@
+{
+  "development": {
+    "username": "sundayy139",
+    "password": "u2AYnZ8GEqogEn2mLSQtW23kvjhH2C7e",
+    "database": "db_da_phongtro",
+    "host": "dpg-cgdhu4g2qv2aq5m163og-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  },
+  "production": {
+    "username": "sundayy139",
+    "password": "u2AYnZ8GEqogEn2mLSQtW23kvjhH2C7e",
+    "database": "db_da_phongtro",
+    "host": "dpg-cgdhu4g2qv2aq5m163og-a.singapore-postgres.render.com",
+    "dialect": "postgres",
+    "logging": false,
+    "dialectOptions": {
+      "ssl": {
+        "require": true,
+        "rejectUnauthorized": false
+      }
+    }
+  }
+}
