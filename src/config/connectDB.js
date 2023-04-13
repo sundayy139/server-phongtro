@@ -11,6 +11,7 @@ const sequelize = new Sequelize(process.env.DB_NAME, process.env.DB_USERNAME, pr
             rejectUnauthorized: false
         }
     },
+    dialectModule: require('pg'),
     logging: false
 });
 
