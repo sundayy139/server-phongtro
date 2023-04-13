@@ -1,9 +1,9 @@
 import * as postService from "../services/post";
 
 export const getPosts = async (req, res) => {
-    const { priceNumber, acreageNumber, ...query } = req.query
+    const { page, priceNumber, acreageNumber, ...query } = req.query
     try {
-        const response = await postService.getPostsService(query, { priceNumber, acreageNumber });
+        const response = await postService.getPostsService(page, query, { priceNumber, acreageNumber });
         return res.status(200).json(response)
     } catch (error) {
         res.status(500).json({
@@ -117,7 +117,6 @@ export const getFavouritePost = async (req, res) => {
         })
     }
 }
-
 
 export const getPostsUser = async (req, res) => {
     try {

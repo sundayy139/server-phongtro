@@ -13,6 +13,7 @@ module.exports = (sequelize, DataTypes) => {
       // define association here
       User.hasMany(models.Post, { foreignKey: 'userId', as: 'userData' });
       User.hasMany(models.Blog, { foreignKey: 'userId', as: 'userBlogData' });
+      User.hasMany(models.Payment, { foreignKey: 'userId', as: 'paymentData' });
       User.hasOne(models.Favourite, { foreignKey: 'userId', as: 'userFavouriteData' });
     }
   }
@@ -24,6 +25,7 @@ module.exports = (sequelize, DataTypes) => {
     avatar: DataTypes.STRING,
     phone: DataTypes.STRING,
     zalo: DataTypes.STRING,
+    balance: DataTypes.FLOAT,
     role: DataTypes.STRING,
     statusCode: DataTypes.STRING,
   }, {

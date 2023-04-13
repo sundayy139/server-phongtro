@@ -9,6 +9,7 @@ import mailerRouter from './mailer'
 import userRouter from './user'
 import blogRouter from './blog'
 import feedbackRouter from './feedback'
+import paymentRouter from './payment'
 
 const initRoutes = (app) => {
     app.use('/api/v1/auth', authRouter)
@@ -22,6 +23,7 @@ const initRoutes = (app) => {
     app.use('/api/v1/mailer', mailerRouter)
     app.use('/api/v1/blog', blogRouter)
     app.use('/api/v1/feedback', feedbackRouter)
+    app.use('/api/v1/payment', paymentRouter)
 
     return app.use('/', (req, res) => {
         res.send('server on ...!')

@@ -75,9 +75,22 @@ export const getUsersService = () => {
                 raw: true,
                 nest: true,
                 attributes: {
-                    exclude: ['password']
+                    exclude: ['password'],
                 },
-                order: [['createdAt', 'DESC']]
+                order: [['createdAt', 'DESC']],
+                include: [
+                    {
+                        model: db.Payment, as: 'paymentData',
+                        where: {
+                            statusCode: 'S8'
+                        },
+                        attributes: [
+                            [sequelize.fn('SUM', sequelize.cast(sequelize.col('amount'), 'integer')), 'totalAmount']
+                        ],
+                        required: false,
+                    },
+                ],
+                group: ['User.id']
             })
             resolve({
                 err: users ? 0 : 1,

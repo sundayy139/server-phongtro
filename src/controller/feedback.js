@@ -1,5 +1,4 @@
 import * as feedbackService from "../services/feedback";
-
 export const createFeedback = async (req, res) => {
     try {
         const response = await feedbackService.createFeedbackService(req.body);

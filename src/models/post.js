@@ -39,6 +39,7 @@ module.exports = (sequelize, DataTypes) => {
         priceNumber: DataTypes.FLOAT,
         acreageNumber: DataTypes.FLOAT,
         expiredAt: DataTypes.DATE,
+        order: DataTypes.INTEGER
     }, {
         sequelize,
         modelName: 'Post',

@@ -7,7 +7,7 @@ import { generateCode } from "../utils/fn";
 import moment from 'moment'
 
 // GET ALL POSTS
-export const getPostsService = ({ ...query }, { priceNumber, acreageNumber }) => {
+export const getPostsService = (page, { ...query }, { priceNumber, acreageNumber }) => {
     return new Promise(async (resolve, reject) => {
         const queries = { ...query }
         if (priceNumber) queries.priceNumber = { [Op.between]: priceNumber }
@@ -17,6 +17,7 @@ export const getPostsService = ({ ...query }, { priceNumber, acreageNumber }) =>
         try {
             const posts = await db.Post.findAll({
                 where: queries,
+                // offset: (page - 1) * (+process.env.LIMIT) || 0,
                 raw: true,
                 nest: true,
                 include: [
@@ -53,7 +54,7 @@ export const getPostsLimitService = (page, { order, ...query }, { priceNumber, a
                 where: queries,
                 raw: true,
                 nest: true,
-                order: order ? [order] : '',
+                order: order ? [order] : [['order', 'DESC']],
                 offset: (page - 1) * (+process.env.LIMIT) || 0,
                 limit: +process.env.LIMIT,
                 include: [
@@ -141,7 +142,6 @@ export const getLabelPostService = (categoryCode, provinceCode) => {
                     group: ['labelCode', 'labelData.id'],
                     include: [
                         { model: db.Label, as: 'labelData' },
-
                     ],
                 })
                 resolve({
@@ -213,10 +213,12 @@ export const createNewPostService = (body, id) => {
                 expired,
                 images,
                 priceCode,
-                acreageCode
+                acreageCode,
+                type,
+                pricePerDay
             } = body
 
-            if (!categoryCode || !target || !expired || !description || !id || !priceNumber || !acreageNumber || !title || !label || !address || !province) {
+            if (!categoryCode || !type || !target || !expired || !description || !id || !priceNumber || !acreageNumber || !title || !label || !address || !province) {
                 resolve({
                     err: 1,
                     msg: "Vui lòng điền đầy đủ thông tin",
@@ -233,108 +235,136 @@ export const createNewPostService = (body, id) => {
                 const addresscf = address.split(',')[address.split(',').length - 4].trim()
                 const addresscfCode = generateCode(address.split(',')[address.split(',').length - 4].trim())
 
-                const existingLabel = await db.Label.findOne({
+                const user = await db.User.findOne({
                     where: {
-                        value: label
-                    }
+                        id: id
+                    },
+                    raw: false
                 })
 
-                if (!existingLabel) {
-                    await db.Label.create({
-                        code: labelCode,
-                        value: label
+                if (!user) {
+                    resolve({
+                        err: 2,
+                        msg: "Không tìm thấy người dùng",
                     })
-                }
+                } else {
+                    if (user.balance < +pricePerDay * +expired) {
+                        resolve({
+                            err: 3,
+                            msg: "Số dư tài khoản không đủ",
+                        })
+                    } else {
+                        const existingLabel = await db.Label.findOne({
+                            where: {
+                                value: label
+                            }
+                        })
 
-                const existingProvince = await db.Province.findOne({
-                    where: {
-                        value: province
+                        if (!existingLabel) {
+                            await db.Label.create({
+                                code: labelCode,
+                                value: label
+                            })
+                        }
+
+                        const existingProvince = await db.Province.findOne({
+                            where: {
+                                value: province
+                            }
+                        })
+
+                        if (!existingProvince) {
+                            await db.Province.create({
+                                code: provinceCode,
+                                value: province
+                            })
+                        }
+
+                        const existingDistrict = await db.District.findOne({
+                            where: {
+                                value: district
+                            }
+                        })
+
+                        if (!existingDistrict) {
+                            await db.District.create({
+                                code: districtCode,
+                                value: district,
+                                provinceCode: existingProvince ? existingProvince.code : provinceCode
+                            })
+                        }
+
+                        const existingWard = await db.Ward.findOne({
+                            where: {
+                                value: ward
+                            }
+                        })
+
+                        if (!existingWard) {
+                            await db.Ward.create({
+                                code: wardCode,
+                                value: ward,
+                                districtCode: existingDistrict ? existingDistrict.code : districtCode,
+                                provinceCode: existingProvince ? existingProvince.code : provinceCode
+                            })
+                        }
+
+                        const existingAddress = await db.Address.findOne({
+                            where: {
+                                value: addresscf,
+                                provinceCode: existingProvince ? existingProvince.code : provinceCode
+                            }
+                        })
+
+                        if (!existingAddress) {
+                            await db.Address.create({
+                                code: addresscfCode,
+                                value: addresscf,
+                                wardCode: existingWard ? existingWard.code : wardCode,
+                                districtCode: existingDistrict ? existingDistrict.code : districtCode,
+                                provinceCode: existingProvince ? existingProvince.code : provinceCode
+                            })
+                        }
+
+                        await db.Image.create({
+                            id: imagesId,
+                            images: JSON.stringify(images)
+                        })
+
+                        // update balance
+
+                        user.balance -= +pricePerDay * +expired
+
+                        await user.save()
+
+                        const newPosts = await db.Post.create({
+                            id: generateId(),
+                            title: title,
+                            labelCode: existingLabel ? existingLabel.code : labelCode,
+                            addressCode: existingAddress ? existingAddress.code : addresscfCode,
+                            wardCode: existingWard ? existingWard.code : wardCode,
+                            districtCode: existingDistrict ? existingDistrict.code : districtCode,
+                            provinceCode: existingProvince ? existingProvince.code : provinceCode,
+                            categoryCode: categoryCode,
+                            description: JSON.stringify(desc) || null,
+                            userId: id,
+                            imageId: imagesId,
+                            priceCode: priceCode || null,
+                            acreageCode: acreageCode || null,
+                            statusCode: 'S1',
+                            target: target,
+                            order: type,
+                            priceNumber: priceNumber / Math.pow(10, 6),
+                            acreageNumber: acreageNumber,
+                            expiredAt: new Date(Date.now() + expired * 24 * 60 * 60 * 1000)
+                        })
+
+                        resolve({
+                            err: newPosts ? 0 : 4,
+                            msg: newPosts ? "Tạo mới bài đăng thành công" : "Có lỗi gì đó rồi",
+                        })
                     }
-                })
-
-                if (!existingProvince) {
-                    await db.Province.create({
-                        code: provinceCode,
-                        value: province
-                    })
                 }
-
-                const existingDistrict = await db.District.findOne({
-                    where: {
-                        value: district
-                    }
-                })
-
-                if (!existingDistrict) {
-                    await db.District.create({
-                        code: districtCode,
-                        value: district,
-                        provinceCode: existingProvince ? existingProvince.code : provinceCode
-                    })
-                }
-
-                const existingWard = await db.Ward.findOne({
-                    where: {
-                        value: ward
-                    }
-                })
-
-                if (!existingWard) {
-                    await db.Ward.create({
-                        code: wardCode,
-                        value: ward,
-                        districtCode: existingDistrict ? existingDistrict.code : districtCode,
-                        provinceCode: existingProvince ? existingProvince.code : provinceCode
-                    })
-                }
-
-                const existingAddress = await db.Address.findOne({
-                    where: {
-                        value: addresscf,
-                        provinceCode: existingProvince ? existingProvince.code : provinceCode
-                    }
-                })
-
-                if (!existingAddress) {
-                    await db.Address.create({
-                        code: addresscfCode,
-                        value: addresscf,
-                        wardCode: existingWard ? existingWard.code : wardCode,
-                        districtCode: existingDistrict ? existingDistrict.code : districtCode,
-                        provinceCode: existingProvince ? existingProvince.code : provinceCode
-                    })
-                }
-
-                await db.Image.create({
-                    id: imagesId,
-                    images: JSON.stringify(images)
-                })
-
-                const newPosts = await db.Post.create({
-                    id: generateId(),
-                    title: title,
-                    labelCode: existingLabel ? existingLabel.code : labelCode,
-                    addressCode: existingAddress ? existingAddress.code : addresscfCode,
-                    wardCode: existingWard ? existingWard.code : wardCode,
-                    districtCode: existingDistrict ? existingDistrict.code : districtCode,
-                    provinceCode: existingProvince ? existingProvince.code : provinceCode,
-                    categoryCode: categoryCode,
-                    description: JSON.stringify(desc) || null,
-                    userId: id,
-                    imageId: imagesId,
-                    priceCode: priceCode || null,
-                    acreageCode: acreageCode || null,
-                    statusCode: 'S1',
-                    target: target,
-                    priceNumber: priceNumber / Math.pow(10, 6),
-                    acreageNumber: acreageNumber,
-                    expiredAt: new Date(Date.now() + expired * 24 * 60 * 60 * 1000)
-                })
-
-                resolve({
-                    err: newPosts ? 0 : 2,
-                    msg: newPosts ? "Tạo mới bài đăng thành công" : "Có lỗi gì đó rồi",
-                })
             }
         } catch (e) {
             reject(e);

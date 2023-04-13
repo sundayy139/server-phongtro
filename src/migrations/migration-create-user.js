@@ -26,6 +26,10 @@ module.exports = {
       zalo: {
         type: Sequelize.STRING
       },
+      balance: {
+        type: Sequelize.FLOAT,
+        defaultValue: 0
+      },
       avatar: {
         type: Sequelize.STRING
       },
