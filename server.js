@@ -1,6 +1,7 @@
 import express from "express";
 require('dotenv').config();
 import cors from 'cors';
+import bodyParser from 'body-parser';
 import initRoutes from "./src/routes";
 import connect from './src/config/connectDB';
 
@@ -11,8 +12,8 @@ app.use(cors({
     methods: ['GET', 'POST', 'PUT', 'DELETE']
 }))
 
-app.use(express.json())
-app.use(express.urlencoded({ extended: true }))
+app.use(bodyParser.json({ limit: '50mb' }));
+app.use(bodyParser.urlencoded({ limit: '50mb', extended: true }));
 
 initRoutes(app)
 connect()
