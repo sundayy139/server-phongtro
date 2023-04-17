@@ -60,7 +60,7 @@ export const loginService = (body) => {
                 let check = bcrypt.compareSync(body.password, user.password);
                 if (check) {
                     if (user.statusCode === 'S5') {
-                        const token = jwt.sign({ id: user.id, phone: user.phone, role: user.role }, process.env.SECRET_KEY, { expiresIn: "5d" })
+                        const token = jwt.sign({ id: user.id, phone: user.phone, role: user.role }, process.env.SECRET_KEY, { expiresIn: "30d" })
                         resolve({
                             err: 0,
                             msg: 'Đăng nhập thành công',
