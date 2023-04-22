@@ -8,8 +8,9 @@ import addressRouter from './address'
 import mailerRouter from './mailer'
 import userRouter from './user'
 import blogRouter from './blog'
-import feedbackRouter from './feedback'
+import contactRouter from './contact'
 import paymentRouter from './payment'
+import reportRouter from './report'
 
 const initRoutes = (app) => {
     app.use('/api/v1/auth', authRouter)
@@ -22,8 +23,9 @@ const initRoutes = (app) => {
     app.use('/api/v1/address', addressRouter)
     app.use('/api/v1/mailer', mailerRouter)
     app.use('/api/v1/blog', blogRouter)
-    app.use('/api/v1/feedback', feedbackRouter)
+    app.use('/api/v1/contact', contactRouter)
     app.use('/api/v1/payment', paymentRouter)
+    app.use('/api/v1/report', reportRouter)
 
     return app.use('/', (req, res) => {
         res.send('server on ...!')

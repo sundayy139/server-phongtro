@@ -11,5 +11,7 @@ router.get('/pay-history', paymentController.paymentHistory);
 router.use(verifyAdmin)
 router.get('/pay-success', paymentController.getPaymentSuccess);
 router.get('/pay-by-month', paymentController.getPaymentByMonth);
+router.get('/total-pay-by-month', paymentController.getTotalPaymentByMonth);
+router.get('/total-pay-by-day', paymentController.getTotalPaymentByDay);
 
 export default router

@@ -9,7 +9,7 @@ import connect from './src/config/connectDB';
 const app = express();
 app.use(cors({
     origin: '*',
-    methods: ['GET', 'POST', 'PUT', 'DELETE']
+    methods: ['GET', 'POST', 'PUT', 'PATCH', 'DELETE']
 }))
 
 app.use(bodyParser.json({ limit: '50mb' }));

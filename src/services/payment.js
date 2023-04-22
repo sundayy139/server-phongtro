@@ -1,8 +1,10 @@
 import db from "../models/index";
 require('dotenv').config();
 import dateFormat, { masks } from "dateformat";
+import moment from 'moment'
 import { sortObject } from "../utils/fn";
 const sequelize = require("sequelize");
+const { Op } = require("sequelize");
 
 export const createPaymentUrlService = (req) => {
     return new Promise(async (resolve, reject) => {
@@ -225,7 +227,6 @@ export const getPaymentSuccessService = () => {
     })
 }
 
-
 export const getPaymentByMonthService = (status, month, year) => {
     return new Promise(async (resolve, reject) => {
         const queries = {}
@@ -257,3 +258,85 @@ export const getPaymentByMonthService = (status, month, year) => {
     })
 }
 
+// GET TOTAL PAYMENT BY MONTH ADMIN
+export const getTotalPaymentByMonthService = (status) => {
+    return new Promise(async (resolve, reject) => {
+        const queries = {}
+        if (status) queries.statusCode = status
+        try {
+            const totalPayments = [];
+            const firstMonth = (new Date(new Date().getFullYear(), 0));
+            while (firstMonth.getMonth() <= new Date().getMonth()) {
+                totalPayments.push({ month: moment(moment.utc(firstMonth)).local().format('MM/YYYY'), total: 0 });
+                firstMonth.setMonth(firstMonth.getMonth() + 1)
+            }
+
+            const results = await db.Payment.findAll({
+                attributes: [
+                    [sequelize.literal(`to_char("createdAt", 'MM/YYYY')`), 'month'],
+                    [sequelize.fn('sum', sequelize.cast(sequelize.col('amount'), 'integer')), 'total']
+                ],
+                group: ['month'],
+                raw: true,
+                where: queries
+            });
+
+            results.forEach(payment => {
+                const resultItem = totalPayments.find(item => item.month === payment.month);
+                if (resultItem) {
+                    resultItem.total = payment.total;
+                }
+            });
+            resolve({
+                err: totalPayments ? 0 : 1,
+                msg: totalPayments ? "Thành công" : "Không lấy được bài đăng",
+                totalPayments
+            })
+        } catch (e) {
+            reject(e);
+        }
+    })
+}
+
+// GET TOTAL PAYMENT BY DAY ADMIN
+export const getTotalPaymentByDayService = (status, startDate, endDate) => {
+    return new Promise(async (resolve, reject) => {
+        try {
+            const queries = {}
+            if (status) queries.statusCode = status
+            if (startDate && endDate) {
+                queries.createdAt =
+                {
+                    [Op.gte]: new Date(startDate),
+                    [Op.lte]: new Date(endDate),
+                }
+            }
+            // Tạo mảng chứa các ngày trong khoảng thời gian cho trước
+            const paymentsDay = [];
+            let currentDate = new Date(new Date(startDate).getTime());
+            while (currentDate <= new Date(endDate)) {
+                paymentsDay.push({ date: moment(moment.utc(currentDate)).local().format('DD/MM'), total: 0 });
+                currentDate.setDate(currentDate.getDate() + 1);
+            }
+            const results = await db.Payment.findAll({
+                where: queries,
+                raw: true
+            });
+
+            results.forEach(payment => {
+                const paymentDate = moment(moment.utc(payment.createdAt)).local().format('DD/MM');
+                const resultItem = paymentsDay.find(item => item.date === paymentDate);
+                if (resultItem) {
+                    resultItem.total += +payment.amount;
+                }
+            });
+            resolve({
+                err: paymentsDay ? 0 : 1,
+                msg: paymentsDay ? "Thành công" : "Không lấy được bài đăng",
+                paymentsDay
+            })
+        } catch (e) {
+            reject(e);
+        }
+    })
+}

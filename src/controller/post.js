@@ -186,24 +186,10 @@ export const getPostsAdmin = async (req, res) => {
 }
 
 // ADMIN
-export const approvePost = async (req, res) => {
+export const updateStatusPostAdmin = async (req, res) => {
     try {
-        const { postId } = req.query
-        const response = await postService.approvePostService(postId);
-        return res.status(200).json(response)
-    } catch (error) {
-        res.status(500).json({
-            err: -1,
-            msg: 'Fail at post controller' + error
-        })
-    }
-}
-
-// ADMIN
-export const refusePost = async (req, res) => {
-    try {
-        const { postId } = req.query
-        const response = await postService.refusePostService(postId);
+        const { postId, status } = req.query
+        const response = await postService.updateStatusPostAdminService(postId, status);
         return res.status(200).json(response)
     } catch (error) {
         res.status(500).json({

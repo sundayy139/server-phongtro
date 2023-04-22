@@ -1,4 +1,4 @@
-import * as feedbackService from "../services/feedback";
+import * as contactService from "../services/contact";
 export const createFeedback = async (req, res) => {
     try {
         const response = await feedbackService.createFeedbackService(req.body);
@@ -6,7 +6,7 @@ export const createFeedback = async (req, res) => {
     } catch (error) {
         res.status(500).json({
             err: -1,
-            msg: 'Fail at feedback controller' + error
+            msg: 'Fail at contact controller' + error
         })
     }
 }
@@ -18,7 +18,7 @@ export const getFeedbacks = async (req, res) => {
     } catch (error) {
         res.status(500).json({
             err: -1,
-            msg: 'Fail at feedback controller' + error
+            msg: 'Fail at contact controller' + error
         })
     }
 }

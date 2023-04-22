@@ -20,6 +20,7 @@ export const getPostsService = (page, { ...query }, { priceNumber, acreageNumber
                 // offset: (page - 1) * (+process.env.LIMIT) || 0,
                 raw: true,
                 nest: true,
+                order: [["createdAt", "DESC"]],
                 include: [
                     { model: db.Address, as: 'addressPostData', attributes: ['value'] },
                     { model: db.Ward, as: 'wardPostData', attributes: ['value'] },
@@ -756,7 +757,7 @@ export const getPostsAdminService = () => {
             const posts = await db.Post.findAll({
                 raw: true,
                 nest: true,
-                order: [['statusCode', 'ASC']],
+                order: [["createdAt", "DESC"]],
                 include: [
                     { model: db.Image, as: 'imagesData', attributes: ['images'] },
                     { model: db.Address, as: 'addressPostData', attributes: ['value'] },
@@ -780,10 +781,10 @@ export const getPostsAdminService = () => {
 }
 
 // APPROVE POST ADMIN
-export const approvePostService = (postId) => {
+export const updateStatusPostAdminService = (postId, status) => {
     return new Promise(async (resolve, reject) => {
         try {
-            if (!postId) {
+            if (!postId || !status) {
                 resolve({
                     err: 1,
                     msg: "Có lỗi gì đó rồi",
@@ -800,11 +801,11 @@ export const approvePostService = (postId) => {
                         msg: "Không tìm thấy bài đăng",
                     })
                 } else {
-                    post.statusCode = 'S2'
+                    post.statusCode = status
                     await post.save()
                     resolve({
                         err: 0,
-                        msg: "Phê duyệt bài đăng thành công",
+                        msg: "Cập nhật bài đăng thành công",
                     })
                 }
             }
@@ -814,40 +815,6 @@ export const approvePostService = (postId) => {
     })
 }
 
-// APPROVE POST ADMIN
-export const refusePostService = (postId) => {
-    return new Promise(async (resolve, reject) => {
-        try {
-            if (!postId) {
-                resolve({
-                    err: 1,
-                    msg: "Có lỗi gì đó rồi",
-                })
-            } else {
-                const post = await db.Post.findOne({
-                    where: {
-                        id: postId,
-                    }
-                })
-                if (!post) {
-                    resolve({
-                        err: 2,
-                        msg: "Không tìm thấy bài đăng",
-                    })
-                } else {
-                    post.statusCode = 'S3'
-                    await post.save()
-                    resolve({
-                        err: 0,
-                        msg: "Từ chối phê duyệt bài đăng thành công",
-                    })
-                }
-            }
-        } catch (e) {
-            reject(e);
-        }
-    })
-}
 
 // GET COUNT POST BY MONTH ADMIN
 export const getCountPostByMonthService = (status, categoryCode) => {
@@ -932,7 +899,6 @@ export const getCountPostByDayService = (status, startDate, endDate, categoryCod
         }
     })
 }
-
 
 // GET POST BY MONTH ADMIN
 export const getPostByMonthService = (status, categoryCode, month, year) => {
