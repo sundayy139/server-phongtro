@@ -1,4 +1,4 @@
-import * as ListPriceService from '../services/ListPrice';
+import * as ListPriceService from '../services/listPrice';
 
 export const getListPrice = async (req, res) => {
     try {
