@@ -9,7 +9,7 @@ router.post('/create', reportController.createReport)
 
 router.use(verifyAdmin)
 router.get('/all', reportController.getAllReport)
-router.put('/update-status', reportController.updateStatus)
-router.delete('/delete-report', reportController.deleteReport)
+router.put('/update_status', reportController.updateStatus)
+router.delete('/delete_report', reportController.deleteReport)
 
 export default router

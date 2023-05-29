@@ -17,11 +17,14 @@ const formatString = (str) => {
 
 export const generateCode = (str) => {
     if (str) {
+        const salt = crypto.randomBytes(16).toString('hex');
+
+        const combinedString = salt + str;
         // Tạo một đối tượng băm dữ liệu MD5
         const md5 = crypto.createHash('md5');
 
         // Mã hóa chuỗi đầu vào bằng hàm băm MD5
-        const hash = md5.update(str).digest('hex');
+        const hash = md5.update(combinedString).digest('hex');
 
         // Trả về 6 ký tự đầu tiên của chuỗi mã hóa
         return hash.substring(0, 6).toUpperCase();

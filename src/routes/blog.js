@@ -4,13 +4,13 @@ import { verifyAdmin, verifyToken } from '../middleware/auth'
 
 const router = express.Router()
 
-router.get('/get-blogs', blogController.getBlogs)
-router.get('/get-blog-by-id', blogController.getBlogById)
+router.get('/all', blogController.getBlogs)
+router.get('/blog_id', blogController.getBlogById)
 
 router.use(verifyToken)
 router.use(verifyAdmin)
-router.post('/create-blog', blogController.createBlog)
-router.put('/update-blog', blogController.updateBlog)
-router.delete('/delete-blog', blogController.deleteBlog)
+router.post('/create', blogController.createBlog)
+router.put('/update', blogController.updateBlog)
+router.delete('/delete', blogController.deleteBlog)
 
 export default router

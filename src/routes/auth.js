@@ -6,9 +6,9 @@ const router = express.Router()
 
 router.post('/register', authController.register)
 router.post('/login', authController.login)
-router.post('/forgot-password', authController.forgotPassword)
-router.post('/reset-password', authController.resetPassword)
+router.post('/forgot_password', authController.forgotPassword)
+router.post('/reset_password', authController.resetPassword)
 
 router.use(verifyToken)
-router.put('/change-password', authController.changePassword)
+router.put('/change_password', authController.changePassword)
 export default router

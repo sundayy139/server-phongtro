@@ -55,7 +55,7 @@ export const getPostsLimitService = (page, { order, ...query }, { priceNumber, a
                 where: queries,
                 raw: true,
                 nest: true,
-                order: order ? [order] : [['order', 'DESC']],
+                order: order ? [order] : [['order', 'DESC'], ['createdAt', 'DESC']],
                 offset: (page - 1) * (+process.env.LIMIT) || 0,
                 limit: +process.env.LIMIT,
                 include: [
@@ -140,7 +140,7 @@ export const getLabelPostService = (categoryCode, provinceCode) => {
                     raw: true,
                     nest: true,
                     attributes: ['labelCode'],
-                    group: ['labelCode', 'labelData.id'],
+                    group: ['labelCode', 'labelData.code'],
                     include: [
                         { model: db.Label, as: 'labelData' },
                     ],
@@ -216,7 +216,6 @@ export const createNewPostService = (body, id) => {
                 priceCode,
                 acreageCode,
                 type,
-                pricePerDay
             } = body
 
             if (!categoryCode || !type || !target || !expired || !description || !id || !priceNumber || !acreageNumber || !title || !label || !address || !province) {
@@ -249,7 +248,13 @@ export const createNewPostService = (body, id) => {
                         msg: "Không tìm thấy người dùng",
                     })
                 } else {
-                    if (user.balance < +pricePerDay * +expired) {
+                    const priceOrder = await db.PriceList.findOne({
+                        where: {
+                            order: type
+                        }
+                    })
+
+                    if (user.balance < +priceOrder.price * +expired) {
                         resolve({
                             err: 3,
                             msg: "Số dư tài khoản không đủ",
@@ -334,7 +339,7 @@ export const createNewPostService = (body, id) => {
 
                         // update balance
 
-                        user.balance -= +pricePerDay * +expired
+                        user.balance -= +priceOrder.price * +expired
 
                         await user.save()
 
@@ -355,6 +360,7 @@ export const createNewPostService = (body, id) => {
                             statusCode: 'S1',
                             target: target,
                             order: type,
+                            priceOrder: priceOrder.price,
                             priceNumber: priceNumber / Math.pow(10, 6),
                             acreageNumber: acreageNumber,
                             expiredAt: new Date(Date.now() + expired * 24 * 60 * 60 * 1000)
@@ -441,6 +447,7 @@ export const updatePostService = (body, id) => {
                 const wardCode = generateCode(address.split(',')[address.split(',').length - 3].trim())
                 const addresscf = address.split(',')[address.split(',').length - 4].trim()
                 const addresscfCode = generateCode(address.split(',')[address.split(',').length - 4].trim())
+
                 const existingLabel = await db.Label.findOne({
                     where: {
                         value: label
@@ -814,7 +821,6 @@ export const updateStatusPostAdminService = (postId, status) => {
         }
     })
 }
-
 
 // GET COUNT POST BY MONTH ADMIN
 export const getCountPostByMonthService = (status, categoryCode) => {

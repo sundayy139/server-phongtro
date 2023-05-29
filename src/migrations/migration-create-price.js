@@ -5,11 +5,11 @@ module.exports = {
         await queryInterface.createTable('Prices', {
             id: {
                 allowNull: false,
-                primaryKey: true,
                 type: Sequelize.INTEGER,
                 autoIncrement: true
             },
             code: {
+                primaryKey: true,
                 type: Sequelize.STRING
             },
             value: {

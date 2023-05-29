@@ -1,9 +1,513 @@
 {
   "header": {
-    "title": "Cho Thuê Phòng Trọ, Giá Rẻ, Tiện Nghi, Mới Nhất 2022",
-    "description": "Cho thuê phòng trọ - Kênh thông tin số 1 về phòng trọ giá rẻ, phòng trọ sinh viên, phòng trọ cao cấp mới nhất năm 2022. Tất cả nhà trọ cho thuê giá tốt nhất tại Việt Nam."
+    "title": "Cho Thuê Phòng Trọ, Giá Rẻ, Tiện Nghi, Mới Nhất 2023",
+    "description": "Cho thuê phòng trọ - Kênh thông tin số 1 về phòng trọ giá rẻ, phòng trọ sinh viên, phòng trọ cao cấp mới nhất năm 2023. Tất cả nhà trọ cho thuê giá tốt nhất tại Việt Nam."
   },
   "body": [
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-9_1658890847.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-7_1658890843.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/2507-2_1659407814.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/02/hinh-1-2107_1659407820.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-1_1658890831.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-6_1658890841.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-3_1658890834.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/20/hinh-1-5_1658279087.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-2_1658890830.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/26/hinh-1-2_1656206427.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/26/hinh-1-3_1656206428.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/20/hinh-1-6_1658279088.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-4_1658890837.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-5_1658890839.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-8_1658890845.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/27/hinh-2707-sau-khi-sua-9_1658890847.jpg"
+      ],
+      "header": {
+        "title": "Cho thuê phòng trọ mới Đường Lương Thế Vinh, Phường Tân Thới Hòa, Quận Tân Phú (gần Đầm Sen)",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Phú",
+          "classType": "Cho thuê phòng trọ Quận Tân Phú"
+        },
+        "address": "Địa chỉ: 48/13 Đường Lương Thế Vinh, Phường Tân Thới Hòa, Quận Tân Phú, Hồ Chí Minh",
+        "attributes": {
+          "price": "1.8 triệu/tháng",
+          "acreage": "20m2",
+          "published": "Hôm nay",
+          "hashtag": "603145"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Giá Phòng từ 1800k đến xem đảm bảo ưng ý, cam kết hình đúng với thực tế",
+          "Phòng mới sửa chữa cuối tháng 7/2022, địa chỉ 48/13 Lương Thế Vinh Phường Tân Thế Hòa, Q.Tân Phú, nhà hẽm xe hơi lộ giới 5m .",
+          "Diện Tích 12m + 8m ( gác lững )",
+          "Phòng có tolet riêng, cửa sổ, ban công, có phòng dưới trệt",
+          "Cho nấu ăn trong phòng, Ở được 2-4 người, bạn bè lại chơi thoãi mái.",
+          "Miễn phí internet, wifi, truyền hình cáp, Camera 15 cái ( an ninh quan sát không góc chết )",
+          "Để xe trong sân nhà thoáng mát có bảo vệ coi 24/24",
+          "Vị trí gần Đầm Sen, thuận tiện qua lại Q.6, Q.11, Tân Phú",
+          "Điện 3,5k/ 1 ký, nước 70k / 1 người, xe 100k/ 1 chiếc .",
+          "Xe để sân sau nhà có người quản lý và trông coi ( không chung chủ ) giúp bạn có cảm giác an toàn, thoải mái",
+          "LH : 0938864405 ( Cường )",
+          "LH zalo : 0938864405 ( Cường Phạm )"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#603145" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 6, 14:55 12/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 6, 14:55 19/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Nguyễn Phạm Đức Cường" },
+          { "name": "Điện thoại:", "content": "0938864405" },
+          { "name": "Zalo", "content": "0938864405" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/393980b6-1fe2-47d2-9d22-35125ff5bb3f_1682492398.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/839248a0-02aa-4aa1-b984-f86f68d9abf4_1682492374.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4222536070111-a98ac92e6182298e06315decfaeb677e_1680149624.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/23e59de5-eb5c-41cc-88f5-5fe6f7f3f3f2_1682492383.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588964485-231538ed62c3bd07f06535ad9915c462_1680149741.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588959619-0477619a8e6c410465e951cc48a9f7f1_1680149739.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4207490356532-75d830f4b46019bca034d0e23386cd36_1680149755.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4222536064456-82013e6cc872f8e895126833d0b77742_1680149743.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/06714ea0-3fd6-4324-acac-6515d4deb33b_1682492378.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/94a43868-0129-4ed0-aed7-917cfef08037_1682492387.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588954927-4f9f125e2147b8bbf04af97a70943757_1680149738.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588969015-375836ac334256d517708ec09da6df5a_1680149742.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4207490397596-3ab02e03871b0155527125d17194180e_1680149759.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588938139-77e75fa79f8cbce37c8d6aa2aa60d9f8_1680149736.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4222536068764-9a5bf376431deafc3c00584eff7dc03c_1680149746.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/18994ec0-bcff-48be-9746-8a50a4097eca_1682492381.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/30/z4215588931436-41cdabc67688ea1fc180da9479eeb31e_1680149736.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/393980b6-1fe2-47d2-9d22-35125ff5bb3f_1682492398.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/839248a0-02aa-4aa1-b984-f86f68d9abf4_1682492374.jpg"
+      ],
+      "header": {
+        "title": "PHÒNG TRỌ SLEEPBOX NGAY CHỢ GÒ VẤP LÊ QUANG ĐỊNH GIÁ 1,8TR 0792686899",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Gò Vấp",
+          "classType": "Cho thuê phòng trọ Quận Gò Vấp"
+        },
+        "address": "Địa chỉ: Đường Lê Quang Định, Phường 1, Quận Gò Vấp, Hồ Chí Minh",
+        "attributes": {
+          "price": "1.8 triệu/tháng",
+          "acreage": "242m2",
+          "published": "Hôm nay",
+          "hashtag": "620178"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Khai trương tòa nhà sleepbox ngay tại chợ Gò Vấp, gần trường DH Công Nghiệp HCM",
+          "Với vị trí này,  Chỉ cần một vài bước chân, bạn có thể đến trường học và tránh được những cảnh tắc đường, mất thời gian trong giờ cao điểm.",
+          "SLEEPBOX Gò Vấp cung cấp các phòng trọ được thiết kế thông minh với diện tích rộng rãi, đầy đủ tiện nghi và an toàn.",
+          "Cửa mỗi Sleepbox được thiết kế khoá bằng THẺ TỪ tuyệt đối an ninh.",
+          "Mỗi phòng được trang bị tủ quần áo, tủ lạnh riêng, máy lạnh, giường ngủ tiện nghi và nhà vệ sinh sạch sẽ với nước nóng lạnh.",
+          "Được trang bị hệ thống bảo mật cao với Face ID và camera hồng ngoại cổng vào để đảm bảo an toàn cho khách hàng.",
+          "Không chỉ có các tiện nghi trong phòng, SLEEPBOX Gò Vấp còn cung cấp nhiều dịch vụ miễn phí như máy giặt, máy sấy, sân phơi đồ rộng rãi, camera an ninh 24/24 và dịch vụ dọn vệ sinh hàng ngày để giúp khách hàng có một cuộc sống thoải mái và tiện nghi nhất.",
+          "Điều đặc biệt ở SLEEPBOX Gò Vấp chính là khách hàng sẽ không phải lo lắng về chi phí, bởi vì tụi mình cam kết không phát sinh bất kì chi phí nào cho khách hàng.",
+          "Hiện nay, tụi mình đã có hơn 10 chi nhánh trên địa bàn TP.HCM để đáp ứng nhu cầu của khách hàng.",
+          "Nếu bạn đang tìm kiếm một chỗ ở gần trường học với giá cả hợp lý, tiện nghi và an toàn, hãy đến với SLEEPBOX Gò Vấp và trải nghiệm sự thoải mái tuyệt vời.",
+          "Liên hệ với mình qua số Zalo: Thanh Hiền 0792686899"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#620178" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 09:21 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 3, 09:21 16/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "phan thị thanh hiền" },
+          { "name": "Điện thoại:", "content": "0792686899" },
+          { "name": "Zalo", "content": "0792686899" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/11/img-1614049503095-1614084793666_1683769703.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/10/07/b1885a1a-d0d5-4b16-9e1e-3d29ab8f7fea_1538906059.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/10/07/2641ea78-95ea-46a6-9c0a-0a07208da594_1538906059.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/11/img-1680607227874-1680607625385_1683769701.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/11/img-1680607227872-1680607623751_1683769701.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/11/img-1614049503095-1614084793666_1683769703.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/10/07/b1885a1a-d0d5-4b16-9e1e-3d29ab8f7fea_1538906059.jpg"
+      ],
+      "header": {
+        "title": "Cho thuê nhà trọ/ căn hộ mini Quận Thủ Đức, 22m2",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Thủ Đức",
+          "classType": "Cho thuê phòng trọ Quận Thủ Đức"
+        },
+        "address": "Địa chỉ: 36C/10 Đường 16, Phường Linh Trung, Quận Thủ Đức, Hồ Chí Minh",
+        "attributes": {
+          "price": "2.9 triệu/tháng",
+          "acreage": "22m2",
+          "published": "Hôm nay",
+          "hashtag": "271447"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Cho thuê căn hộ mini MỚI XÂY diện tích 22m2 mỗi căn, cho NVVP hoặc vợ chồng trẻ ở.",
+          "Giá từ 2.8 tr",
+          "Có bếp nấu ăn, có gác nhỏ để đồ",
+          "Nhà vệ sinh riêng",
+          "Có chổ để xe",
+          "An ninh tốt,",
+          "GẦN KHU CÔNG NGHỆ CAO QUẬN 9",
+          "Gần trường Đại Học Nông Lâm và SPKT Thủ Đức.",
+          "Cách bệnh viện ĐK KV Thủ Đức 200m,",
+          "Cách trường cấp 3 Linh Trung và trường mầm non lớn 300m,",
+          "Gần chợ Linh Trung,",
+          "Gần làng đại học.",
+          "Địa chỉ: 36C/10 đường số 16, kp 1, P. Linh Trung, Q. Thủ Đức, TP.HCM"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#271447" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Nữ" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 08:49 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 3, 08:49 16/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Huỳnh Thu Hà" },
+          { "name": "Điện thoại:", "content": "0987831080" },
+          { "name": "Zalo", "content": "0987831080" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123140499_1683698605.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123135804_1683698607.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123147990_1683698602.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123146290_1683698602.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123143648_1683698604.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123140499_1683698605.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/tai-xuong-2023-05-10t123135804_1683698607.png"
+      ],
+      "header": {
+        "title": "Phòng Trọ Ngay Sân Bay Tân Sơn Nhất Full Nội Thất",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
+          "classType": "Cho thuê phòng trọ Quận Tân Bình"
+        },
+        "address": "Địa chỉ: Đường Bạch Đằng, Phường 2, Quận Tân Bình, Hồ Chí Minh",
+        "attributes": {
+          "price": "3.5 triệu/tháng",
+          "acreage": "20m2",
+          "published": "Hôm nay",
+          "hashtag": "624393"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Bạch Đằng, Phường 02, Quận Tân Bình",
+          "Điện: 3,800/kWh",
+          "Nước: 80,000/ng",
+          "Xe: 150,000/xe",
+          "Quản lý: 150,000/phòng",
+          "Toilet: Riêng",
+          "Ban công:",
+          "Cửa sổ:",
+          "Chung chủ:",
+          "Thang máy:",
+          "Nước nóng:",
+          "Máy giặt: Chung",
+          "Khóa cổng: Vân tay",
+          "Giờ giấc: Tự do",
+          "Nội thất: Full",
+          "Mọi người liên hệ đạt hỗ trợ nghenn"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#624393" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 4, 13:13 10/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 2, 13:13 15/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Nguyễn Hoàng Tuấn Đạt" },
+          { "name": "Điện thoại:", "content": "0903211547" },
+          { "name": "Zalo", "content": "0903211547" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617919843-73ae557d2ab509f3a864030b572ba679_1683682416.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617882357-caf344a30227d6befc96c1269317946e_1683682413.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617883631-0821dec5bca6bf8d1cc59b6305c02de4_1683682413.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617893014-6b21e9785562832fd885f9bca757fd1f_1683682414.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617897628-05ce449814675de30bafadbe5a254068_1683682414.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617897814-acd7f2bb1dd528f7be65005d7e5ba4f1_1683682414.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617902356-50d9f581f411b211c80bd88f35713f66_1683682414.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617907877-c2b6a23ca5775e755abee1475ac0a23c_1683682416.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617911711-3a43d1aa3be56b8ce6e14b6667f4cae8_1683682416.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617914907-e2994a310ea64a5c6a698e1912f61b34_1683682416.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617919843-73ae557d2ab509f3a864030b572ba679_1683682416.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/10/z3356617882357-caf344a30227d6befc96c1269317946e_1683682413.jpg"
+      ],
+      "header": {
+        "title": "Cho thuê phòng giá rẻ 01 phòng ngủ & 01 phòng bếp q. tân bình",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
+          "classType": "Cho thuê phòng trọ Quận Tân Bình"
+        },
+        "address": "Địa chỉ: 800 Đường Lạc Long Quân, Phường 9, Quận Tân Bình, Hồ Chí Minh",
+        "attributes": {
+          "price": "5.5 triệu/tháng",
+          "acreage": "30m2",
+          "published": "Hôm nay",
+          "hashtag": "624360"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "HISAIGON - Nơi cam kết phòng trọ xinh xắn, an ninh và sạch sẽ với giá chính chủ rẻ nhất Sài Gòn!",
+          "Địa chỉ: 800 Lạc Long Quân, Phường 9, Tân Bình.",
+          "Chính chủ cho thuê phòng trong ngôi nhà nguyên căn với 2 mặt tiền đường xe tải, nằm trong khu vực an ninh gần chợ, phòng gym, siêu thị, Vinmart, công viên... Phòng được trang bị nội thất hiện đại và sang trọng, bao gồm:",
+          "TV truyền hình cáp",
+          "Máy lạnh tiết kiệm điện",
+          "Tủ quần áo lớn 2 cánh âm tường",
+          "Ban công thoáng mát",
+          "Cửa sổ lớn mang lại không khí mát mẻ vào mùa hè và ấm áp vào mùa đông",
+          "Kệ bếp riêng thiết kế hiện đại, có phòng bếp tách biệt",
+          "Nước nóng lạnh năng lượng mặt trời không tốn điện",
+          "Wifi mạnh mẽ phục vụ nhu cầu học tập và làm việc",
+          "Giường/nệm, drap đầy đủ và sạch sẽ",
+          "Toilet riêng từng phòng với các thiết bị vệ sinh hiện đại",
+          "Bàn học/bàn trang điểm trong từng phòng",
+          "Tủ sách/tủ đồ dùng cá nhân",
+          "Chủ nhà thân thiện, không chung chủ, giờ giấc tự do",
+          "=================================",
+          "HISAIGON - Hệ thống phòng trọ tiện ích",
+          "Hisaigon - Tự hào là thương hiệu hàng đầu về trọ Sleepbox cao cấp và phòng trọ mini tại Sài Gòn."
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#624360" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 4, 08:35 10/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 2, 08:35 15/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Hisaigon" },
+          { "name": "Điện thoại:", "content": "0938802805" },
+          { "name": "Zalo", "content": "0938802805" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/06/fb-img-1683266939368_1683379087.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/06/20230506-130239_1683379118.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/06/fb-img-1683266930368_1683379056.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/11/img-1681200772579-1681202197340_1681212822.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/11/img-1681201416030-1681202136221_1681212820.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/11/img-1681201416035-1681202160952_1681212828.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/06/fb-img-1683266932820_1683379071.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/06/fb-img-1683266939368_1683379087.jpg"
+      ],
+      "header": {
+        "title": "Cho thuê phòng đẹp mớI đẹp, full nội thất, giá rẻ . Bình Tân .( gần bến xe Miền Tây).",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Tân",
+          "classType": "Cho thuê phòng trọ Quận Bình Tân"
+        },
+        "address": "Địa chỉ: Đường Kinh Dương Vương, Phường An Lạc A, Quận Bình Tân, Hồ Chí Minh",
+        "attributes": {
+          "price": "3 triệu/tháng",
+          "acreage": "20m2",
+          "published": "Hôm nay",
+          "hashtag": "621987"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "# chính chủ cho thuê.",
+          "Kinh Dương Vương , phường an lạc A, Bình Tân. ( gần bến xe miền tây, công viên phú lâm)",
+          "+ Thuận tiện di chuyển đi các quận ở sài gòn.",
+          "CHỈ CẦN VÁC VALY VÀO Ở THÔI .",
+          "+++ Phòng full nội thất mới. ( máy lạnh tivi giường nệm tủ áo bàn gế ,quạt .....)",
+          "phòng có cửa sổ thoáng mát. Nhà có thang máy",
+          "Đặt coc nửa tháng",
+          "Giá : 3tr",
+          "miễn phí : Thang máy , tiền xe , giờ tự do k chung chủ.",
+          "Thuận tiện di chuyển các quận.xe bus ok .",
+          "Giờ giấc tự do",
+          "Camera an ninh",
+          "Khoá cửa vân tay.",
+          "LH 0815966676 . PHỤNG xem phòng."
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#621987" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 7, 20:20 06/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Chủ Nhật, 20:20 14/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Phụng Nguyễn" },
+          { "name": "Điện thoại:", "content": "0903026185" },
+          { "name": "Zalo", "content": "0903026185" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/a46aaacf-6a74-4264-bf0e-bcc4da640135_1681022436.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/58ccc7d0-3ccf-4c96-b2b2-b6ea115bf296_1676116615.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/56a71028-25ad-43ca-a65a-ca9ca3bcaf6b_1676116613.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/c64cbfd6-fe5a-489b-8672-75561716c514_1676116620.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/e66d1c0f-c577-40f5-a9e2-e52ad1e2fb5a_1676116615.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/3872fb09-e3e1-44ad-8a95-a1132649be66_1676116617.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/2149d07b-c399-47aa-8800-b936d1fc501d_1681022432.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/552111b0-5d36-4ebf-968a-2849f39e9bd5_1676116613.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/e37d6343-cade-4a52-b8c8-4953d2fd39fc_1676116618.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/b04ef59b-fd8d-46e2-9813-e577a292ce95_1681022431.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/c2ee0cd5-dc98-4be7-a5c6-2108ed157b7a_1676116620.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/11/18/104018414-269897154235460-5378317653105971591-n_1605671251.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/11/18/photo-2020-06-20-10-52-15_1605671242.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/4331941e-280f-4fc5-aa07-ee2f6097b55e_1681022435.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/14923175-99e2-49d4-9ce9-7398a5054b8a_1676116622.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/29143c07-17fe-49d5-abbb-335f03d7f70f_1676116623.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/601aa09e-a0b9-4bed-b4c3-4385b213e9f5_1681022429.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/9ff03251-eeac-4013-9b67-1dc3181b0ebb_1681022429.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/8c1672f9-827c-443b-b595-02b96ec1c699_1681022434.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/09/a46aaacf-6a74-4264-bf0e-bcc4da640135_1681022436.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/11/58ccc7d0-3ccf-4c96-b2b2-b6ea115bf296_1676116615.jpg"
+      ],
+      "header": {
+        "title": "Phòng cho thuê FULL Nội Thất, giờ giấc tự do ngay công viên Hoàng Văn Thụ. Siêu ưu đãi mùa dịch",
+        "star": "5",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
+          "classType": "Cho thuê phòng trọ Quận Tân Bình"
+        },
+        "address": "Địa chỉ: 50 Đường Phạm Cự Lượng, Phường 2, Quận Tân Bình, Hồ Chí Minh",
+        "attributes": {
+          "price": "4.2 triệu/tháng",
+          "acreage": "20m2",
+          "published": "Hôm nay",
+          "hashtag": "314706"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "️️️Giảm 500k tiền phòng cho tháng đầu tiên, đối với các khách hàng ký hợp đồng trong tháng5 /2023️️️(áp dụng thời hạn hợp đồng tối thiểu đến 30/8/2023)",
+          "️️️Giảm 50% tiền phòng cho tháng đầu tiên, đối với các khách hàng ký hợp đồng trong tháng5 /2023️️️(áp dụng thời hạn hợp đồng phải đến 30/8/2024)",
+          "Cách CV Hoàng Văn Thụ 150m",
+          "Cách ĐH Tài Chính Marketing 300m",
+          "Diện tích 20m2",
+          "Mức giá: 4tr2",
+          "Địa chỉ: Phạm Cự Lượng, P2, Tân Bình.",
+          "Mô tả:",
+          "- Có máy lạnh",
+          "- Có kệ bếp và tủ bếp",
+          "- Có gác",
+          "- Toilet riêng",
+          "- Có một bàn ăn 2 ghế.",
+          "Ngoài ra còn có thang máy, hầm giữ xe, camera, quản lí và bảo vệ 24/7.",
+          "Ra vào bằng cửa khóa vân tay.",
+          "Điện 4k/ 1 kw",
+          "Nước 100k 1 người / tháng",
+          "Gửi xe máy (xe số 150k 1chiếc / tháng,xe tay ga 200k 1 chiếc / tháng)",
+          "dịch vụ 100k 1 người / tháng",
+          "wifi 100k 1 phòng / tháng",
+          "Anh chị liên hệ Phòng trọ Be Home để xem phòng nhé."
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#314706" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
+          { "name": "Ngày đăng:", "content": "Thứ 6, 19:43 05/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 2, 20:36 15/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Be Home" },
+          { "name": "Điện thoại:", "content": "0899455299" },
+          { "name": "Zalo", "content": "0899455299" }
+        ]
+      }
+    },
     {
       "images": [
         "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/12/08/z2216753993358-ff7e2006d4cd4a467f857d6f5d213f4c_1607398735.jpg",
@@ -15,7 +519,7 @@
         "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/12/08/z2216753992450-eb92e4fa0fc7f15a039bf4a9ea4a0856_1607398734.jpg"
       ],
       "header": {
-        "title": "Cho thuê phòng mới diện tích 32m2, giá 5tr/tháng có sẵn nội thất cơ bản",
+        "title": "Cho thuê phòng mới diện tích 35m2, giá 5.5tr/tháng có sẵn đầy đủ nội thất",
         "star": "5",
         "class": {
           "content": "Chuyên mục: Cho thuê phòng trọ Quận 2",
@@ -23,8 +527,8 @@
         },
         "address": "Địa chỉ: Đường số 61, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
         "attributes": {
-          "price": "5 triệu/tháng",
-          "acreage": "32m2",
+          "price": "5.5 triệu/tháng",
+          "acreage": "35m2",
           "published": "Hôm nay",
           "hashtag": "315940"
         }
@@ -34,13 +538,14 @@
         "content": [
           "Mình cần cho thuê phòng mới diện tích 32m2, giá 5tr/tháng có sẵn nội thất cơ bản",
           "Địa chỉ: 17 Đường số 61, Phường Thạnh Mỹ Lợi, Quận 2, Hồ Chí Minh",
-          "- Giá cho thuê: 5tr/tháng",
+          "- Giá cho thuê: 5.5tr/tháng",
           "- Có sẵn nội thất cơ bản: Giường, Tủ, Máy lạnh",
           "- Có chỗ nấu ăn",
           "- Có hầm để xe miễn phí",
           "- Có thang máy.",
           "- Điện: 4k/kg, nước 20k/khối",
-          "- Internet free siêu mạnh."
+          "- Internet free siêu mạnh.",
+          "- Có sẵn máy giặt, tủ lạnh."
         ]
       },
       "overview": {
@@ -51,8 +556,8 @@
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
           { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 15:31 20/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 11:04 03/02/2023" }
+          { "name": "Ngày đăng:", "content": "Thứ 4, 09:19 26/04/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 6, 09:19 26/05/2023" }
         ]
       },
       "contact": {
@@ -66,1241 +571,761 @@
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635829734-c316454dae234a5a647f763d596b1c46_1615391074.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635816674-545794dbbc111cba4b6b0b4ed0d7d184_1615391076.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635820017-a799e12b812c7d3db8b2a8fc80af7077_1615391073.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635816676-c76f214f9ce8a6c46fcd03734781d978_1615391074.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635831782-7df8246b519eb2ff1f43822a987655ca_1615391062.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635821190-967d30125f3fa89ebd719f3e093c973f_1615391057.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635831784-7a9f944a688963315a3849841ef7970d_1615391058.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635831783-2f9151c4f9205322302ab2c815f78557_1615391057.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635826037-cb2941c7a54c4dcf36e7847007f6ab34_1615391060.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635834157-b513eb57468bf166dedc425b72803203_1615391058.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635831785-ca580faa0336407ed49ec67da4569406_1615391060.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635827422-eec7387bebde58f687516d9c50d4c8df_1615391066.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635834159-e1f6960455fc1b13d0ff254b1fbfe5b1_1615391067.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635827424-046d896b78e44150dd16ddd1c4f9ca90_1615391062.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635826040-04642d0cdcf753153e75fa32fdc4beab_1615391063.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635827225-3ec322eff35aaab70760bfdef4f18e10_1615391068.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635826039-5ba1342d2ad7b81b18ef817ef796ec0e_1615391069.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635829733-860d54e55fecd2b04543a5090e1c5242_1615391071.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635816675-a18318a9f1b2f33a9cd95d88cd250cce_1615391073.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635833887-cdeaf7e988537768ce045b42c3ef5648_1615391075.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635826038-769d9bd0dd2792181969064d8f6a345d_1615391069.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635829531-669ff5979e64bea7a75ab5fed0c8d20b_1615391071.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635829734-c316454dae234a5a647f763d596b1c46_1615391074.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/03/10/z2372635816674-545794dbbc111cba4b6b0b4ed0d7d184_1615391076.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025782399-7fdd263204a56fc552bcc876a12293c6_1674785594.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025740041-0c32a1d0197c20b63c64a57df8c64959_1674785592.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025765105-04e4c8e3b0c79ad50f7c6b1939162823_1674785595.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025759263-7ca73cc7c52cfc53a6b4a9960f37d3f8_1674785596.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025757084-0d37877ed5b25c44a86f2a31961b5db1_1674785595.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025770882-b775cc2fd6d60a9bf8f7d6ac80eedbfa_1674785594.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025763180-407728bc245586586561a55608daf488_1674785593.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025785004-d3ca3ef6bb99b173f6448364e6e1cc14_1674785594.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025746724-cdfb7fe600f6d480e35206aebc7e094e_1674785594.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025768129-2d8a7b0e2fa348c9fe7aae4aebe33b41_1674785592.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025795409-975a6e5a10b5b857839b372b661eabf4_1674785593.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025782399-7fdd263204a56fc552bcc876a12293c6_1674785594.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/01/27/z4064025740041-0c32a1d0197c20b63c64a57df8c64959_1674785592.jpg"
       ],
       "header": {
-        "title": "PHÒNG TRỌ MỚI XÂY RẤT ĐẸP SỐ 373/1/2A ĐƯỜNG LÝ THƯỜNG KIỆT, QUẬN TÂN BÌNH - GẦN BÊN TRƯỜNG ĐẠI HỌC BÁCH KHOA",
+        "title": "Phòng trọ ngay Thành Thái, trung tâm Quận 10, đẹp, trang bị đầy đủ nội thất",
         "star": "5",
         "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
-          "classType": "Cho thuê phòng trọ Quận Tân Bình"
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận 10",
+          "classType": "Cho thuê phòng trọ Quận 10"
         },
-        "address": "Địa chỉ: 373/1/2A Phố Lý Thường Kiệt, Phường 9, Quận Tân Bình, Hồ Chí Minh",
-        "attributes": {
-          "price": "4 triệu/tháng",
-          "acreage": "20m2",
-          "published": "Hôm nay",
-          "hashtag": "212446"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "PHÒNG TRỌ MỚI, ĐẸP SỐ 373/1/2a LÝ THƯỜNG KIỆT, GẦN ĐH BÁCH KHOA",
-          "- Phòng nằm ngay trung tâm quận Tân Bình (xem hình thật). HẼM THÔNG, HẼM TO cách ĐƯỜNG LÝ THƯỜNG KIỆT 30m.",
-          "- Nằm cách Trường Đại Học BÁCH KHOA 700m, cách chợ Ông Địa 100m, Nằm sau lưng trường THPT Nguyễn Thái Bình, cách chợ Tân Bình 800m",
-          "- Phòng được ốp lát gạch sạch sẽ , tất cả các phòng đều có Máy lạnh, Quạt hút nhưng Cửa sổ vẫn bao la… nhiều phòng có BAN CÔNG rất thoáng mát.",
-          "- Phòng có Gác lững đẹp nằm ngủ, có kệ Bếp nấu ăn, Toilet đầy đủ thiết bị vệ sinh, nước nóng năng lượng mặt trời",
-          "- Thang máy chất lượng thuận tiện đi lại, Có Camera an ninh quan sát các tầng, khóa vân tay, Sân thượng phơi quần áo có mái che.",
-          "- Internet cáp quang Wifi được lắp đặt từng phòng rất mạnh, cáp Tivi, Pccc tự động",
-          "- Bỏ xe dưới tầng hầm bảo vệ trong coi, rất an ninh không chung chủ.",
-          "- Bảo vệ trong coi 24/24 giúp Bạn có cảm giác an toàn, khóa vân tay giờ giấc tự do.",
-          "(MỜI BẠN ĐẾN XEM PHÒNG, CÓ QUẢN LÝ TIẾP KHÁCH)",
-          "- Địa chỉ 1: 373/1/2a Lý Thường Kiệt, phường 9, Tân Bình, Tp. Hồ Chí Minh.",
-          "- Diện tích: Từ 20 m2 - 25 m2.",
-          "- Giá Rẻ: Từ 4tr - 4,5tr/tháng.",
-          "- Liên hệ: A Hiếu: 0918180057 hoặc 0931897679"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#212446" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 08:29 20/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 08:29 04/01/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "hieuthanh2006 (*)" },
-          { "name": "Điện thoại:", "content": "0918180057" },
-          { "name": "Zalo", "content": "0918180057" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/diachi-sonky_1575091604.png",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/17f127e466893fd370b536e3d9cd0b15-2742471474502885792_1635303858.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/8204d5bf7116ff76ff705e0f1db59af7-2742471470019107383_1635303858.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/6cf25f240ac441f88af2e4a3f3d0e8ed-2742471462353372835_1635303859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/imag0254_1575091596.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/c1a7740786df15431909f910bd13cd19-2742471471195404001_1635303860.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/bc4ebb372cd353e0667e52c273599e83-2742471468049730341_1635303860.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/imag0256_1575091594.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/1da4c60e78aae224780dd91ee772e03a-2742471468962158853_1635303860.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/imag0250_1575091602.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/imag0255_1575091596.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/d9f1d0d3095908996b984e39c6b7f9f7-2742471470420145818_1635303859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/d762b1dbe882c02af24ce029c3c2d100-2742471473643254408_1635303859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/11/30/diachi-sonky_1575091604.png",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/27/17f127e466893fd370b536e3d9cd0b15-2742471474502885792_1635303858.jpg"
-      ],
-      "header": {
-        "title": "CHO THUÊ PHÒNG TRỌ MỚI XÂY CHÍNH CHỦ, GIẢM GIÁ, QUẬN TÂN PHÚ - GẦN BÊN TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THỰC PHẨM",
-        "star": "5",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Phú",
-          "classType": "Cho thuê phòng trọ Quận Tân Phú"
-        },
-        "address": "Địa chỉ: 24 Đường Sơn Kỳ, Phường Sơn Kỳ, Quận Tân Phú, Hồ Chí Minh",
-        "attributes": {
-          "price": "2.8 triệu/tháng",
-          "acreage": "20m2",
-          "published": "Hôm nay",
-          "hashtag": "135699"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "PHÒNG TRỌ 24 SƠN KỲ TÂN PHÚ, GẦN ĐH CÔNG NGHỆ THỰC PHẨM",
-          "- Cách trường Đại Học Công nghệ Thực Phẩm 700m, cách AeOnMall Tân Phú 500m, Gần eTown, PanDoRa Trường Chinh,.... thuận tiện đi lại các quận.",
-          "- Phòng có CỬA SỔ, nhiều phòng có BAN CÔNG, đảm bảo ánh sáng ban ngày rất thoáng mát. (Xem hình thật)",
-          "- Toilet trong phòng đầy đủ các thiết bị vệ sinh, có kệ BẾP nấu ăn, có GÁC LỮNG các phòng được ốp gạch cao sạch sẽ.",
-          "- Trong nhà có Thang máy đi lại, Có Camera an ninh quan sát, có PCCC tự động",
-          "- Internet cáp quang mạnh, nhanh. Có cáp Tivi",
-          "- Bỏ xe dưới tầng trệt có bảo vệ trong coi. Khóa vân tay giờ giấc tự do.",
-          "- Bảo vệ trong coi 24/24 (không chung chủ) giúp Bạn có cảm giác an toàn, được bảo vệ.",
-          "___________________________",
-          "- Địa chỉ: 24 Sơn Kỳ, phường Sơn Kỳ, quận Tân Phú, Tp. Hồ Chí Minh.",
-          "- Diện tích phòng: Từ 20 m2 – 25 m2.",
-          "- Giá Rẻ: 2,8tr – 3tr/tháng.",
-          "___________________________",
-          "(MỜI BẠN ĐẾN XEM PHÒNG, CÓ QUẢN LÝ TIẾP KHÁCH)",
-          "Liên hệ: 0918 18 00 57 hoặc 0931897679  A Hiếu."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#135699" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
-          { "name": "Ngày đăng:", "content": "Thứ 3, 08:28 20/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 08:28 04/01/2023" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "hieuthanh2006 (*)" },
-          { "name": "Điện thoại:", "content": "0918180057" },
-          { "name": "Zalo", "content": "0918180057" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/mau-phong-tro-co-gac-lung-dep2030-5_1671256767.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/phong-tro-da-nang-6_1671256719.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/mau-phong-tro-co-gac-lung-dep2030-5_1671256767.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/phong-tro-da-nang-6_1671256719.jpg"
-      ],
-      "header": {
-        "title": "HỖ TRỢ 1TR500 KHI CHỐT TRONG NGÀY! PHÒNG MỚI, NGÃ TƯ BẢY HIỀN, FULL NỘI THẤT, CÓ GÁC , BAN CÔNG CỬA SỔ GIÁ CHỈ TỪ 4TR500",
-        "star": "5",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
-          "classType": "Cho thuê phòng trọ Quận Tân Bình"
-        },
-        "address": "Địa chỉ: Đường Lạc Long Quân, Phường 11, Quận Tân Bình, Hồ Chí Minh",
+        "address": "Địa chỉ: 43/3 Đường Thành Thái, Phường 14, Quận 10, Hồ Chí Minh",
         "attributes": {
           "price": "4.5 triệu/tháng",
-          "acreage": "35m2",
+          "acreage": "25m2",
           "published": "Hôm nay",
-          "hashtag": "612968"
+          "hashtag": "612116"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "HỖ TRỢ 1TR500 KHI CHỐT TRONG NGÀY! PHÒNG MỚI, NGÃ TƯ BẢY HIỀN, FULL NỘI THẤT, CÓ GÁC , BAN CÔNG CỬA SỔ GIÁ CHỈ TỪ 4TR500",
-          "- Giờ giấc tự do, không chung chủ",
-          "- Bãi để xe rộng, camera an ninh, ra vào vân tay",
-          "- Free xe",
-          "- Máy giặt chung",
-          "- Điện: 3.800/Kw",
-          "- Nước: 100k/người",
-          "- Dịch vụ: 150k/phòng",
-          "Chủ hòa đồng dễ chịu",
-          "- Vui lòng liên hệ: 0️⃣9️⃣7️⃣4️⃣8️⃣4️⃣5️⃣8️⃣7️⃣2️⃣",
-          " "
+          "Cho thuê phòng trọ ngay trung tâm Quận 10, gần ngay Vạn Hạnh Mall, trường đại học Bách Khoa, Huflit (5 phút đi bộ là tới), trường Đại học Y Dược Phạm Ngọc Thạch (bước qua đường là tới) Đại học Hoa Sen, trường Quốc Tế Việt Úc, bệnh viện 115, Nhi Đồng...các nhà thuốc lớn ở HCM... full nội thất đầy đủ tiện nghi, giờ giấc tự do, phòng ốc sạch sẽ và an ninh. Thích hợp cho thuê công tác dài và ngắn hạn, việt Kiều, SV...",
+          "Giá phòng: 4.5 triệu - 7 triệu/tháng.",
+          "Phòng rộng: từ 25m2 - 35m2.",
+          "Phòng đẹp như ảnh, cho thuê tại các địa chỉ sau:",
+          "- Địa chỉ 1: 43/3 Thành Thái, Phường 14, Q.10",
+          "- Địa chỉ 1: 7A/19/19 Thành Thái, P.14, Q.10.",
+          "- Địa chỉ 2: 128 Thành Thái, P.12, Q.10",
+          "Liên hệ thuê phòng: 0938297275 Anh Việt"
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#612968" },
+          { "name": "Mã tin:", "content": "#612116" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
           { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 13:13 17/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 13:13 22/12/2022" }
+          { "name": "Ngày đăng:", "content": "Thứ 2, 08:04 24/04/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 4, 08:04 24/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "Hà My" },
-          { "name": "Điện thoại:", "content": "0974845872" },
-          { "name": "Zalo", "content": "0974845872" }
+          { "name": "Liên hệ:", "content": "Việt 275 (*)" },
+          { "name": "Điện thoại:", "content": "0938297275" },
+          { "name": "Zalo", "content": "0938297275" }
         ]
       }
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z3896560887611-9bd4cf1d6360e16a86fdc8feff7f507e_1671244670.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z3921393457430-8949a7d82acfa62c07a2f5ac19db35a3_1671244636.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/182025577-110649197846661-3404825680283657670-n-copy_1671244666.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z3964847209462-d8ba5bdfb8b0224f5543cd8a57ca005a_1671244703.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/182234781-110589424519305-241266621515160902-n-copy-copy_1671244666.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/184854147-113459877565593-2851035540914831627-n-copy_1671244666.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2123504828357-a7c9ef0673c326c91076683d4cf79158-copy_1671244666.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2123504836422-439dbf314ad79eb37a74c44c886c916c_1671244668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2539953775102-7d9be52a19d2907c55f8a404a9b83b5c_1671244668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2569660638383-6af92b03adf120b909f9b1fcce39c662_1671244668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2855971258697-c1305c0cf2eda523a2baa03b375b4745_1671244669.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z2855971260558-b48cc8548387c6d0e307e7f8a7e9d315_1671244670.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z3896560887611-9bd4cf1d6360e16a86fdc8feff7f507e_1671244670.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/17/z3921393457430-8949a7d82acfa62c07a2f5ac19db35a3_1671244636.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/mau-1_1683643258.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/mau-3_1683643223.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/mau-11_1683643238.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/mau-20_1683643247.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/mau-1_1683643258.jpg"
       ],
       "header": {
-        "title": "KÝ TÚC XÁ - SLEEPBOX CHO NGƯỜI ĐI LÀM, NVVP TẠI GÒ VẤP",
-        "star": "5",
+        "title": "Sang Nhượng HĐKD 31 Phòng Trọ Full Nội Thất Đường Xô Viết Nghệ Tĩnh, Bình Thạnh",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
+          "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
+        },
+        "address": "Địa chỉ: Đường Xô Viết Nghệ Tĩnh, Phường 26, Quận Bình Thạnh, Hồ Chí Minh",
+        "attributes": {
+          "price": "150 triệu/tháng",
+          "acreage": "185m2",
+          "published": "Hôm nay",
+          "hashtag": "624346"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "️ Sang Nhượng HĐKD TOÀ NHÀ CHDV Xô Viết Nghệ Tĩnh, P. 26, Bình Thạnh",
+          "Diện Tích Khủng: 16,45 (m) x 11,23 (m)",
+          "Tổng: 31 Phòng chdv - 33 WC, Full Nội Thất (tủ lạnh, máy lạnh, kệ bếp, nước nóng năng lượng mặt trời…)",
+          "Giá thuê: 140tr/tháng (hỗ trợ từ 1/4–1/10), sau đó 150tr đến hết hđ",
+          "⏱Hđ còn ~ 4 năm",
+          "Lợi nhuận ~ 45tr/tháng",
+          "TỔNG SANG: 6xx (đã bao gồm cọc chủ)",
+          "Chính Chủ Sang: 090 699 0808 - 096 336 7090"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#624346" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 21:38 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 5, 21:38 25/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Phạm Hoài Nam" },
+          { "name": "Điện thoại:", "content": "0906990808" },
+          { "name": "Zalo", "content": "0906990808" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/2_1683643660.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/3_1683643621.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/4_1683643626.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/6_1683643632.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/11_1683643643.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/1_1683643655.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/09/2_1683643660.jpg"
+      ],
+      "header": {
+        "title": "Sang Nhượng HĐKD Toà Nhà 26 Phòng Vị Trí Đẹp Đường Quang Trung, Gò Vấp",
+        "star": "4",
         "class": {
           "content": "Chuyên mục: Cho thuê phòng trọ Quận Gò Vấp",
           "classType": "Cho thuê phòng trọ Quận Gò Vấp"
         },
-        "address": "Địa chỉ: 21 Đường Trần Thị Nghĩ, Phường 7, Quận Gò Vấp, Hồ Chí Minh",
+        "address": "Địa chỉ: Quang Trung, Phường 14, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
-          "price": "1.9 triệu/tháng",
-          "acreage": "35m2",
+          "price": "68 triệu/tháng",
+          "acreage": "124m2",
           "published": "Hôm nay",
-          "hashtag": "612943"
+          "hashtag": "624348"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "QHOUSE SLEEPBOX TẠI KDC CITYLAND CENTER HILL, GÒ VẤP (Cách sân bay 10p, gần Emart, vincom, coop, BigC, Ngã 5 chuồng chó...)",
-          "-Nội thất box mới, chưa bóc seal, có tủ khóa riêng trên box, cửa lùa",
-          "-Giường nệm, đèn, tủ treo đồ, gương, ổ cắm riêng, tủ cá nhân tất cả đều trên box",
-          "-Máy lạnh, tủ lạnh, máy giặt, bếp từ.",
-          "-Toilet từng phòng, có nước nóng.",
-          "-Camera an ninh 24/24.",
-          "-Khoá vân tay (Giờ giấc tự do) - Hầm để xe",
-          "-Internet WiFi tốc độ cao",
-          "-Lao công dọn dẹp vệ sinh 2 lần/tuần sạch sẽ.",
-          "LIÊN HỆ NGAY ĐỂ BIẾT THÊM CHI TIẾT NHÉ"
+          "Sang HDKD Nhà Làm CHDV Đường Quang Trung, Phường 14, Gò Vấp :",
+          "Diện tích : 6,2 x 14,72",
+          "- Kết cấu : 1 trệt, 3 lầu, sân thượng",
+          "- Bao gồm : 26 phòng - 26 WC",
+          "Giá thuê : 68tr/ tháng",
+          "️ Lợi nhuận 25tr-30tr /tháng (Chưa Làm Định Mức Điện)",
+          "Giá sang : 4xx (triệu)",
+          "Chính chủ sang: 090 699 0808 - 096 336 7090"
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#612943" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP nổi bật" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 09:53 17/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 09:53 22/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyen Phi" },
-          { "name": "Điện thoại:", "content": "0355555647" },
-          { "name": "Zalo", "content": "0355555647" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479318254-ec12d55efd60e7695673a131841685e0_1671432668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479314089-321e0bb189e9b21110bd97ad8872e14a_1671432667.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479331895-4478c0e668d35efbdb7474b55275c60b_1671432667.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479330802-164a450594d645f9af7056672ea38222_1671432667.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479323103-0f9a713e18694bc5397bbf30ebb6f58d_1671432667.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479318254-ec12d55efd60e7695673a131841685e0_1671432668.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/z3971479314089-321e0bb189e9b21110bd97ad8872e14a_1671432667.jpg"
-      ],
-      "header": {
-        "title": "Trống sẵn phòng có bếp và phòng ngủ tách biệt Tân Phú",
-        "star": "4",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Phú",
-          "classType": "Cho thuê phòng trọ Quận Tân Phú"
-        },
-        "address": "Địa chỉ: Đường Lê Vĩnh Hòa, Phường Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh",
-        "attributes": {
-          "price": "4.5 triệu/tháng",
-          "acreage": "30m2",
-          "published": "55 phút trước",
-          "hashtag": "597733"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Phòng cho thuê mới, cửa sổ thoáng mát, thang máy.",
-          "* Mặt tiền, yên tĩnh, an ninh, khu dân trí",
-          "• Lê Vĩnh Hòa, P. Phú Thọ Hòa, Q. Tân Phú.",
-          "+ Vị trị: Nằm ngay trung tâm Quận Tân Phú.",
-          "* Gần chợ Phú Thọ Hoà, THPT Trần Phú",
-          "* Cách trường cao đẳng GTVT trung ương III (50m)",
-          "* Sát bên đường Vườn Lài - Nguyễn Sơn - Lê Thúc Hoạch",
-          "+ Tiện nghi đầy đủ: Máy lạnh, tủ lạnh, tủ quần áo, ban ghế, giường nệm",
-          "* Điện 3500",
-          "* Nước 100.000/người",
-          "* Dịch Vụ (wifi, rác): 100.000",
-          "* Xe miễn Phí"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#597733" },
+          { "name": "Mã tin:", "content": "#624348" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
           { "name": "Gói tin:", "content": "Tin VIP 1" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 11:11 21/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 2, 11:11 26/12/2022" }
+          { "name": "Ngày đăng:", "content": "Thứ 5, 21:37 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 5, 21:37 18/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "Vy Nguyễn" },
-          { "name": "Điện thoại:", "content": "0934071362" },
-          { "name": "Zalo", "content": "0934071362" }
+          { "name": "Liên hệ:", "content": "Phạm Hoài Nam" },
+          { "name": "Điện thoại:", "content": "0906990808" },
+          { "name": "Zalo", "content": "0906990808" }
         ]
       }
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130407_1588661072.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130358_1588661062.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130401_1588661065.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130404_1588661070.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130407_1588661072.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/05/img-20200505-130358_1588661062.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955523736-f77907ad706bb982ff5a84c303345588_1679019598.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955513574-a743ced7fa0b24e1793d3b748c931d7a_1679019597.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955006513-83d6c7345b19345bbb03063b815e3aab_1679019597.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955129365-974dadf0b1fbb19c1c855c4c3318daea_1679019597.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955513575-b144235253f1d33218ceba4b0792ab96_1679019598.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955517026-555e9f369bfbd0508660a4e377347520_1679019598.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955523736-f77907ad706bb982ff5a84c303345588_1679019598.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/17/z2481955513574-a743ced7fa0b24e1793d3b748c931d7a_1679019597.jpg"
       ],
       "header": {
-        "title": "Phòng tiện nghi Ban Công thoáng có GÁC, 25M -Kế Đại Học Văn Hiến - Âu Cơ",
+        "title": "PHÒNG ĐẸP SANG NGAY VÒNG XOAY ĐIỆN BIÊN PHỦ QUẬN 1",
         "star": "4",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
-          "classType": "Cho thuê phòng trọ Quận Tân Bình"
-        },
-        "address": "Địa chỉ: 618/32/8 Đường Âu Cơ, Phường 10, Quận Tân Bình, Hồ Chí Minh",
-        "attributes": {
-          "price": "4.5 triệu/tháng",
-          "acreage": "25m2",
-          "published": "Hôm nay",
-          "hashtag": "299451"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê phòng trọ tiện nghi BAN CÔNG có GÁC giá 4.5tr với diện tích: 25m. Phòng có 2 cữa sổ, 2 ban công, 2 lối đi riêng biệt NGAY ĐẠI HỌC VĂN HIẾN - ÂU CƠ",
-          "+ Vị trị: Nằm ngay trung tâm quận Q.Tân Bình giáp các quận 10, 11, Tân Phú .....",
-          "* Đối diện bệnh viện Quận Tân Phú, nhà hàng tiệc cưới Bạch Kim",
-          "* Kế bên đường Đồng Đen, giáp chung cư Bàu Cát",
-          "+ Tiện nghi mới có sẵn:",
-          "* Bếp nấu ăn hiện đại, tolet riêng và ban công rộng thoáng mát",
-          "*Máy giặt dùng chung 2 cái, mỗi tầng đều có máy giặt và chỗ phơi đồ rộng rãi",
-          "* Giường gỗ, nệm cao su (Nhu cầu)",
-          "* Tủ lạnh 160L",
-          "* Tủ quần áo gỗ cao cấp (nhu cầu)",
-          "* Bàn + ghế làm việc (nhu cầu)",
-          "+ Phụ vụ chuyên nghiệp:",
-          "* Có camera quan sát 24/24, ra vào bằng vân tay đảm bảo an toàn",
-          "* Có chỗ để xe rộng rãi thoải mái",
-          "* Dọn về sinh 3lần/ tuần",
-          "* Giờ giấc tự do, chìa khóa trao tay."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#299451" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 1" },
-          { "name": "Ngày đăng:", "content": "Chủ Nhật, 13:32 18/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 13:32 23/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "NGUYỄN XUÂN THUẬN" },
-          { "name": "Điện thoại:", "content": "0902817961" },
-          { "name": "Zalo", "content": "0902817961" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135692522-99def308db30a5698c487288eebea12c_1671345047.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135653320-02223fe68308bb329731a4313b45db3f_1671345031.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135695691-b16f78e43890c41df0ec677408feef5d_1671345036.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135660107-ef8f11d2deb810a06d6bf9aa0dbc86aa_1671345041.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135692522-99def308db30a5698c487288eebea12c_1671345047.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/18/z3967135653320-02223fe68308bb329731a4313b45db3f_1671345031.jpg"
-      ],
-      "header": {
-        "title": "Phòng trọ full tiện nghi thang máy, kế Hoàng Hoa Thám, TB-25m2",
-        "star": "4",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
-          "classType": "Cho thuê phòng trọ Quận Tân Bình"
-        },
-        "address": "Địa chỉ: 14/13/67 Đường Thân Nhân Trung, Phường 13, Quận Tân Bình, Hồ Chí Minh",
-        "attributes": {
-          "price": "4 triệu/tháng",
-          "acreage": "25m2",
-          "published": "Hôm nay",
-          "hashtag": "613050"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Phòng tr full nội thất mới, không chung chủ, thang máy",
-          "Địa chỉ: 14/13/67 Thân Nhân Trung, P.13, Tân Bình (gần Etown cộng Hòa, đường Hòa Hoa Thám...)",
-          "Giá: 4tr/ tháng. Điện 3.5k/kw",
-          "Giờ giấc tự do.",
-          "Nội thất có sẵn gồm: máy lạnh, tủ quần áo, giường nêm, tủ lạnh, bàn ghế, kệ bếp nấu ăn ngoài phòng. Có thang máy."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#613050" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 1" },
-          { "name": "Ngày đăng:", "content": "Chủ Nhật, 13:31 18/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 13:31 23/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Vũ Văn Tuệ" },
-          { "name": "Điện thoại:", "content": "0362200286" },
-          { "name": "Zalo", "content": "0362200286" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/17ccf46d-80cf-419f-a5d2-e2d2d976897e_1671109204.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/134dddbb-9006-4601-9ba4-c2bae278db48_1671109203.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/a27c575e-c110-4109-8910-4b1b334fd332_1671109203.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/e474c0cd-4bf2-4b6b-ae0c-aed22b9a5660_1671109204.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/497da0b4-0ef7-47b5-a0a2-91e590274266_1671109203.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/17ccf46d-80cf-419f-a5d2-e2d2d976897e_1671109204.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/15/134dddbb-9006-4601-9ba4-c2bae278db48_1671109203.jpg"
-      ],
-      "header": {
-        "title": "Căn hộ 2Pn nội thất đầy đủ quận 1",
-        "star": "4",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận 1",
-          "classType": "Cho thuê phòng trọ Quận 1"
-        },
-        "address": "Địa chỉ: Đường Trần Đình Xu, Phường Cầu Kho, Quận 1, Hồ Chí Minh",
-        "attributes": {
-          "price": "7 triệu/tháng",
-          "acreage": "50m2",
-          "published": "Hôm nay",
-          "hashtag": "612824"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê căn hộ ( phòng) 2 phòng ngủ. Nội thất đầy đủ. Diện tích 50m2. Vị trí thuận tiện đi lại đường Trần Đình Xu. Gần Trần Hưng Đạo. Nguyễn Trãi, phố đi Bộ Bùi Viện. Gia 7tr. Liên hệ chính chủ 0983671379 ."
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#612824" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 1" },
-          { "name": "Ngày đăng:", "content": "Thứ 5, 20:00 15/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 5, 20:00 22/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "quyen" },
-          { "name": "Điện thoại:", "content": "0983671379" },
-          { "name": "Zalo", "content": "0983671379" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/19/21_1645252709.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/05/z3774375166777-8a2706dd30110eaa7893decf1f72a884_1664932411.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/04/z3772246087032-8bc6ecd218d2621f2a91a291c0545c13_1664867345.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/19/21_1645252709.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/05/z3774375166777-8a2706dd30110eaa7893decf1f72a884_1664932411.jpg"
-      ],
-      "header": {
-        "title": "Cho thuê phòng trọ gác cao, thoáng mát, sạch sẽ giá 2tr2 tại Lý Phục Man, Bình Thuận, Quận 7",
-        "star": "3",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận 7",
-          "classType": "Cho thuê phòng trọ Quận 7"
-        },
-        "address": "Địa chỉ: 104B Đường Lý Phục Man, Phường Bình Thuận, Quận 7, Hồ Chí Minh",
-        "attributes": {
-          "price": "2.2 triệu/tháng",
-          "acreage": "18m2",
-          "published": "1 giờ trước",
-          "hashtag": "591968"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Cho thuê phòng trọ mới đẹp, sạch sẽ tại:104B Lý Phục Man phường Bình Thuận Quận 7, gần KCX Tân Thuận.",
-          " Mô tả phòng:",
-          "+ Rộng rãi, sạch sẽ, thoáng mát",
-          "+ Có nội thất,",
-          "+ Có gác lững cao 2m",
-          "+ Nhà xe rộng rãi",
-          "+ Wc riêng từng phòng sạch sẽ",
-          "+ Tòa nhà di chuyển thuận tiện bằng Thang Máy",
-          "+ An ninh luôn đảm bảo có bảo vệ 24/24, Camera giám sat",
-          "Vị trí:",
-          "+ Đường lớn giao thông thuận tiện",
-          "+ Xung quanh có các tiện ích dân sinh",
-          "+ Giờ giấc linh hoạt, tận tình phục vụ quý khách",
-          "Liên hệ xem phòng và trao đổi chi tiết:",
-          "+ Thảo: 0908.660.130",
-          "+ Hiếu: 0933.686.805 hoặc 0982007967(Nhung)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#591968" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 10:47 21/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 10:47 28/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Chị Thảo" },
-          { "name": "Điện thoại:", "content": "0908660130" },
-          { "name": "Zalo", "content": "0908660130" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665204321-6507f12ce8b392fdaaf94f8a35a637ca_1671160649.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665186058-c866a37d8128c14275cae3a9a24e04a7_1671160648.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665195798-f4c53fc51f8f4006e77a07e89ef183c7_1671160648.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665195910-a52813e646a488824de5254626d0caf7_1671160649.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665204321-6507f12ce8b392fdaaf94f8a35a637ca_1671160649.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/16/z3963665186058-c866a37d8128c14275cae3a9a24e04a7_1671160648.jpg"
-      ],
-      "header": {
-        "title": "Đầu tháng 1 trống căn 1PN có ban công lớn giáp Vườn Lài, Nguyễn Sơn",
-        "star": "3",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Phú",
-          "classType": "Cho thuê phòng trọ Quận Tân Phú"
-        },
-        "address": "Địa chỉ: Đường Lê Vĩnh Hòa, Phường Phú Thọ Hòa, Quận Tân Phú, Hồ Chí Minh",
-        "attributes": {
-          "price": "5.8 triệu/tháng",
-          "acreage": "42m2",
-          "published": "Hôm nay",
-          "hashtag": "612071"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Đầu tháng 1, trống căn 1PN có ban công lớn",
-          "* Mặt tiền, yên tĩnh, an ninh, khu dân trí",
-          "Lê Vĩnh Hòa, P. Phú Thọ Hòa, Q. Tân Phú.",
-          "Vị trí: Nằm ngay trung tâm Quận Tân Phú.",
-          "* Gần chợ Phú Thọ Hoà, THPT Trần Phú",
-          "* Cách trường cao đẳng GTVT trung ương III (50m)",
-          "* Sát bên đường Vườn Lài - Nguyễn Sơn - Lê Thúc Hoạch",
-          "————————————————————",
-          "Điện 3500",
-          "Nước 100k/ng",
-          "Wifi-rác 100k/phòng",
-          "Xe free",
-          "‍️ Được nuôi thú cưng",
-          "Không chung chủ giờ giấc tự do"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#612071" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 13:53 19/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 13:53 24/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Vy Nguyễn" },
-          { "name": "Điện thoại:", "content": "0934071362" },
-          { "name": "Zalo", "content": "0934071362" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642078655-8a470a4559c8e05766ee9d2fa8c2618c_1651219475.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642077459-980b5e3a4b23286476a277b01acfe894_1651219474.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642036739-2c3fdcbc02c0e9f037c1af398cb78846_1651219473.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642038575-a45c62dc070714607650bb2a8eb4e930_1651219473.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642050497-90cc0d137f43764a6e1a789313b82c35_1651219473.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642054611-d8e00f7fc94acfde2b9399dd1ae039ee_1651219473.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642071789-1466093818733a5a13204f83a467a338_1651219474.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642078461-70c3d7c21e7cff744d9b67a6888c5e36_1651219474.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642078655-8a470a4559c8e05766ee9d2fa8c2618c_1651219475.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/04/29/z3377642077459-980b5e3a4b23286476a277b01acfe894_1651219474.jpg"
-      ],
-      "header": {
-        "title": "CHÍNH CHỦ cần cho thuê phòng sạch sẽ có máy lạnh ngay hàng xanh. thang máy, máy giặt, nhà xe, bảo vệ sân phơi",
-        "star": "3",
         "class": {
           "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
           "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
         },
-        "address": "Địa chỉ: 294/32 Đường Xô Viết Nghệ Tĩnh, Phường 21, Quận Bình Thạnh, Hồ Chí Minh",
+        "address": "Địa chỉ: Điện Biên Phủ, Phường 15, Quận Bình Thạnh, Hồ Chí Minh",
         "attributes": {
-          "price": "3.9 triệu/tháng",
-          "acreage": "15m2",
+          "price": "5.5 triệu/tháng",
+          "acreage": "25m2",
           "published": "Hôm nay",
-          "hashtag": "599857"
+          "hashtag": "619390"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "CHÍNH CHỦ cần cho thuê phòng sạch sẽ có máy lạnh ngay hàng xanh. thang máy, máy giặt, nhà xe, bảo vệ sân phơi",
-          "VỊ TRÍ : ngay ngã 4 hàng xanh, hướng đèn đỏ bên phía về quận 1.",
-          "hẻm thông nhiều hướng, cách hutech 500m",
-          "giá chỉ 3.9tr/tháng có máy lạnh, kệ bếp, toilet trong phòng",
-          "ở 1-2 người, tối đa 2 xe",
-          "vui lòng gọi trước 30p khi đến xem phòng, (p như hình)"
+          "Căn hộ mini đầy đủ tiện nghi, giờ giấc tự do không chung chủ ngay vòng xoay Điện Biên Phủ, quận Bình Thạnh - quận 1",
+          "- Ngay sát quận 1, gần bờ kè, gần cầu Thị Nghè, gần ĐH Ngoại Thương, ĐH Hutech, ĐH Văn Lang, ĐH Kinh Tế Tài Chính. Nhà cho thuê mới đẹp, có nội thất tiện nghi.",
+          "- phòng rộng 25m2 sạch sẽ, được trang bị tiện nghi, các thiết bị hiện đại, tiết kiệm điện nước tối đa, đồng hồ riêng biệt.",
+          "Tiện ích tòa nhà:",
+          "- Wifi",
+          "- Khu giặt sấy (free)",
+          "- Bãi xe",
+          "Tiện nghi phòng:",
+          "- Full nội thất cơ bản (Máy Lạnh, bàn, tủ quần áo, kệ bếp, gác, mnn)",
+          "- Có gác lửng tăng diện tích sử dụng",
+          "Các chi phí khác:",
+          "- Điện: 3.700/kwh",
+          "- Nước: 100k/người",
+          "- Phí dịch vụ: 150k/phòng (rác, wifi, giặt sấy,….)",
+          "- Xe: 150k/xe",
+          "Địa chỉ: 57/6i ĐIỆN BIÊN PHỦ, P15, Q.BÌNH THẠNH"
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#599857" },
+          { "name": "Mã tin:", "content": "#619390" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 08:56 19/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 2, 08:56 26/12/2022" }
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 13:50 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 5, 13:50 18/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "TRIỆU MẾN" },
-          { "name": "Điện thoại:", "content": "0896687588" },
-          { "name": "Zalo", "content": "0896687588" }
+          { "name": "Liên hệ:", "content": "BeLand" },
+          { "name": "Điện thoại:", "content": "0345611655" },
+          { "name": "Zalo", "content": "0345611655" }
         ]
       }
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/11/19/20160618115635-2c13_1542610159.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/11/19/20160618115635-2c13_1542610159.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2018/11/19/20160618115635-2c13_1542610159.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857668312-ed490230156e34f820a5df7503392831_1680661367.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857688612-a779c470d3d8e2aa6c03f171d8c6e08b_1680661367.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857741826-5b377168bdcc955eb53493327bd0e448_1680661368.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857708719-fae1b7f1bd855b10fc674546dcff4f04_1680661368.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857748190-6dec59c3499e1515b760708889b28b6d_1680661369.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857668312-ed490230156e34f820a5df7503392831_1680661367.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/05/z4236857688612-a779c470d3d8e2aa6c03f171d8c6e08b_1680661367.jpg"
       ],
       "header": {
-        "title": "Cho thuê phòng trọ cao cấp tại 64 Trương Văn Bang - Bình Trưng Tây",
-        "star": "3",
+        "title": "Phòng 30m2, phòng rộng, gác cao đường xvnt, ngay cầu Thanh Đa",
+        "star": "4",
         "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận 2",
-          "classType": "Cho thuê phòng trọ Quận 2"
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
+          "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
         },
-        "address": "Địa chỉ: 64 Đường Trương Văn Bang, Phường Bình Trưng Tây, Quận 2, Hồ Chí Minh",
+        "address": "Địa chỉ: 886/39A Xô Viết Nghệ Tĩnh, Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
+        "attributes": {
+          "price": "4.2 triệu/tháng",
+          "acreage": "25m2",
+          "published": "Hôm nay",
+          "hashtag": "617762"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Giá chỉ từ 4tr2 - 4tr7/tháng",
+          "Các dịch vụ:",
+          "- Điện 3k7/kwh,",
+          "- Nước 100k/người",
+          "- Dịch vụ: 150k/phòng (wifi, rác, bảo trì bảo dưỡng,.....)",
+          "Diện tích: 25 m² - 30m²",
+          "Tiện ích:",
+          "Giờ giấc tự do không chung chủ.",
+          "WC riêng, có bếp nấu ăn.",
+          "Vị trí:",
+          "Ngay cầu Thanh Đa, cách Hàng Xanh 5 phút",
+          "Thuận tiện đi lại các quận: Quận 1, Quận 3, Quận Phú Nhuận, Quận Gò Vấp, Quận Tân Bình,...",
+          "Liên hệ: 0345 611 655 - Thư"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#617762" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 13:49 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 3, 13:49 16/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "BeLand" },
+          { "name": "Điện thoại:", "content": "0345611655" },
+          { "name": "Zalo", "content": "0345611655" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296469816-1665805447118539-7599363110475881569-n_1659943979.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296172521-600367881443341-7742697764947829969-n_1659942376.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296009024-439550144784881-641974713265952138-n-1_1659942381.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296141296-450946196887741-8243611203858466365-n_1659942386.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/293288661-597040101908601-4876093723005646180-n_1659942393.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296529524-598030541693258-1493692505131350736-n-1_1659942401.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296009024-439550144784881-641974713265952138-n-1_1659943435.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296369765-3422315671332978-1606133761781524294-n_1659943974.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296469816-1665805447118539-7599363110475881569-n_1659943979.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/08/08/296172521-600367881443341-7742697764947829969-n_1659942376.jpg"
+      ],
+      "header": {
+        "title": "Phòng trọ mới, sạch đẹp, ngay trung tâm, giá rẻ, chính chủ.",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận 10",
+          "classType": "Cho thuê phòng trọ Quận 10"
+        },
+        "address": "Địa chỉ: 358/4 Đường Điện Biên Phủ, Phường 11, Quận 10, Hồ Chí Minh",
+        "attributes": {
+          "price": "3.5 triệu/tháng",
+          "acreage": "24m2",
+          "published": "Hôm nay",
+          "hashtag": "282621"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Cho thuê phòng trọ, lầu đúc, sạch đẹp,có sân thượng, ngay trung tâm, đối diện bệnh viện Bình Dân, gần trường học, chợ Vườn Chuối, thuận tiện đi lại cho người đi làm, đi học.Có wifi, truyền hình cáp, nước lạnh, nước nóng năng lượng mặt trời, nhà vệ sinh trong phòng, có chỗ để xe trong nhà không tốn phí( mỗi người một chiếc xe không tốn tiền gửi xe ), an toàn.",
+          "Khu vực yên tĩnh, an ninh.",
+          "Đồng hồ điện, nước riêng.Có thể ở 1 hoặc 2 người.",
+          "-Phòng 24m2 có cửa sổ, giá 3.500.000đ/phòng/tháng ( ở 1 hoặc 2 người).",
+          "-Phòng có máy lạnh: 4.300.000đ/phòng/tháng ( ở 1 hoặc 2 người )",
+          "PHÒNG TRỐNG-DỌN VÀO Ở NGAY.",
+          "Liên hệ cô Bích Thủy : 0983.344.682",
+          "Xem phòng tại 358/4 Điện Biên Phủ P11 Q10 (Khi đến xem phòng xin gọi điện trước)."
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#282621" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 5, 10:16 11/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 3, 10:16 16/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Nguyen Thi Bich Thuy" },
+          { "name": "Điện thoại:", "content": "0983344682" },
+          { "name": "Zalo", "content": "0983344682" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/22/64285c13-0ef1-4208-b4af-d7cda6d87553_1666414570.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/22/e89f5672-babd-4b99-a765-d130ded1930e_1666414561.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/22/68a9e370-f4e2-46cd-a5f7-ff2a127e2beb_1666414557.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/22/64285c13-0ef1-4208-b4af-d7cda6d87553_1666414570.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/10/22/e89f5672-babd-4b99-a765-d130ded1930e_1666414561.jpg"
+      ],
+      "header": {
+        "title": "Cho thuê phòng trọ, đi thang máy, hầm để xe tại 224/36 Lý Thường Kiệt, Phường 14, Quận 10, Hcm",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận 10",
+          "classType": "Cho thuê phòng trọ Quận 10"
+        },
+        "address": "Địa chỉ: 224/36 Phố Lý Thường Kiệt, Phường 14, Quận 10, Hồ Chí Minh",
         "attributes": {
           "price": "3 triệu/tháng",
-          "acreage": "16m2",
+          "acreage": "12m2",
           "published": "Hôm nay",
-          "hashtag": "4345"
+          "hashtag": "607860"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "Cho thuê phòng đẹp, giá rẻ, an ninh tốt tại Bình Trưng Tây, Quận 2",
-          "Diện tích: 16-30m2. ",
-          "Phòng mới xây, cao cấp như khách sạn, đầy đủ nội thất (giường, tủ), vệ sinh khép kín, có máy lạnh, nước nóng năng lượng mặt trời, nhà để xe. Khu an ninh, yên tĩnh, thoáng mát, cách Quận 1 chỉ 10 phút đi xe máy.",
-          "Giá: từ 3 triệu/tháng - 3.5 triệu/tháng",
-          "Điạ chỉ: 64 Trương Văn Bang - Bình Trưng Tây - Quận 2 (cạnh cầu Giồng Ông Tố 2)",
-          "Liên hệ: 0943773920 (A.Hùng)."
+          "Nhà ngay trung tâm Q10, kế trung tâm tdtt quốc gia Phú Thọ và gần các trường đại học.",
+          "Còn 1 phòng 12m2, Lầu 4 đi thang máy, hành lang cửa sổ thông thoáng, không khí trong lành, nhà đa số là sinh viên và nvvp thuê ở nên rất an ninh, yên tĩnh. Phòng có wc trong, đèn, quạt, nước nóng lạnh, máy giặt, sân phơi, hầm để xe, Wifi miễn phí, giờ giấc tự do.",
+          "Nước máy 22k/khối, điện 3.700đ/kw. Phòng trống ở ngay.",
+          "Giá 3.000k/tháng/1 người.",
+          "Đối tượng là Nam, Nữ độc thân.",
+          "Liên hệ 224/36 Lý Thường Kiệt, P14, Q10, Tphcm. 0765430084 a.Chuong."
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#4345" },
+          { "name": "Mã tin:", "content": "#607860" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 7, 11:03 17/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 14:19 28/12/2022" }
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 3, 16:05 09/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Chủ Nhật, 16:05 14/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "Chú Hùng" },
-          { "name": "Điện thoại:", "content": "0943773920" },
-          { "name": "Zalo", "content": "0943773920" }
+          { "name": "Liên hệ:", "content": "Vo tien chuong" },
+          { "name": "Điện thoại:", "content": "0765430084" },
+          { "name": "Zalo", "content": "0765430084" }
         ]
       }
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/image-2-1634527636_1657632115.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/img-0632-1534473063-1568505023_1657632114.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/image-3-1634527636_1657632114.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/image-1-1634527638_1657632114.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/image-2-1634527636_1657632115.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/07/12/img-0632-1534473063-1568505023_1657632114.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/10_1682481461.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/0_1682481455.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/1_1682481455.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/2_1682481456.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/3_1682481456.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/4_1682481458.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/5_1682481458.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/7_1682481459.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/8_1682481459.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/9_1682481461.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/10_1682481461.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/04/26/0_1682481455.png"
       ],
       "header": {
-        "title": "Phòng trọ sinh viên, dân văn phòng giáp ranh Trường Chinh, quận Tân Bình (LH: 0903 658 912)",
-        "star": "3",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận 12",
-          "classType": "Cho thuê phòng trọ Quận 12"
-        },
-        "address": "Địa chỉ: 26/1 Đường Nguyễn Văn Quá, Phường Đông Hưng Thuận, Quận 12, Hồ Chí Minh",
-        "attributes": {
-          "price": "2 triệu/tháng",
-          "acreage": "15m2",
-          "published": "Hôm nay",
-          "hashtag": "604130"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "Nhà trọ 4 tầng sạch sẽ, toa lét khép kín, 1-2 người/phòng.",
-          "Gần trung tâm thành phố, từ nhà trọ đến vincom cộng hòa/ sân bay Tân Sơn Nhất là 20 phút.",
-          "Từ nhà trọ đến quận 3 là 30 phút; Từ nhà trọ đến trung tâm quận 1 là 45 phút.",
-          "Ngay dưới chân cầu Tham Lương 1. Gần chung cư Thái An 1-2. Gần trường tiểu học Lý Tự Trọng, trường THCS Hà Huy Tập, gần chợ (5 phút).",
-          "*Đối với phòng có ban công, thoáng mát, giá 2,200,000 triệu/phòng (phòng 15m2)",
-          "Cô chủ dễ mến, khu phố an ninh, sạch sẽ. Hàng xóm là các bạn sinh viên hoặc là dân văn phòng. Đặc biệt: không nhận khách trọ về trễ hơn 11 giờ đêm (vì lý do an ninh cho người thuê nhà sau 11 giờ sẽ đóng cửa).",
-          "Liên hệ: 0903 658 912 (cô Huệ)"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#604130" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 6, 21:15 16/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 6, 21:15 30/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Nguyen Thi Hue" },
-          { "name": "Điện thoại:", "content": "0903658912" },
-          { "name": "Zalo", "content": "0903658912" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/20/d0174e91-ec8d-4d5e-86e5-164a730409a3_1589914859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/3560164d-3dec-415d-9653-134bdefa11bd_1580150006.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/65bfdd79-b2b8-42f7-8095-767886449a6e_1580150008.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/ad1ffb63-48f0-4cb8-9fca-0866d32ccc8c_1580150008.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/73e004cb-0cfb-4637-8051-c1bc75b05b83_1580150028.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/48eea0e2-b68d-4fcb-a52f-9effc5b567f9_1580150057.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/2332c387-b5d6-42be-a8e0-4f206710dbbb_1580150057.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/743f5204-9282-434c-94ef-a3d1730e1689_1580150081.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/20/284534ae-b539-4822-9601-169c4e84c4f6_1589914840.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/05/20/d0174e91-ec8d-4d5e-86e5-164a730409a3_1589914859.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/01/28/3560164d-3dec-415d-9653-134bdefa11bd_1580150006.jpg"
-      ],
-      "header": {
-        "title": "Ở ghép trọn gói 700k gần Lotte Mart",
-        "star": "3",
+        "title": "Phòng mới 100% gần khu chế xuất tân thuận, giá từ 3,9tr/tháng",
+        "star": "4",
         "class": {
           "content": "Chuyên mục: Cho thuê phòng trọ Quận 7",
           "classType": "Cho thuê phòng trọ Quận 7"
         },
-        "address": "Địa chỉ: 34 Phố số 36, Phường Tân Quy, Quận 7, Hồ Chí Minh",
+        "address": "Địa chỉ: Tân Thuận Tây, Phường Bình Thuận, Quận 7, Hồ Chí Minh",
         "attributes": {
-          "price": "700.000 đồng/tháng",
-          "acreage": "20m2",
+          "price": "3.9 triệu/tháng",
+          "acreage": "25m2",
           "published": "Hôm nay",
-          "hashtag": "294491"
+          "hashtag": "623380"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "Đến Homestay Hoàng Phúc – hệ thống Kytucxa Q7 rẻ nhất Sài Gòn với những căn phòng đẹp lung linh chuẩn 2 sao, đa dạng tiện nghi và bao trọn toàn bộ các chi phí (cam kết 100% không phát sinh).",
-          "CHỈ 9️⃣0️⃣0️⃣.0️⃣0️⃣0️⃣/ THÁNG( KM 200K tháng đầu chỉ còn 7️⃣0️⃣0️⃣.0️⃣0️⃣0️⃣/ THÁNG )",
-          "TIỆN ÍCH NỔI TRỘI TẠI ĐÂY:",
-          "Giường tầng riêng tư, có tủ đồ, móc treo thông minh",
-          "Máy lạnh inverter, wifi tốc độ cao",
-          "Nhà vệ sinh riêng, sạch sẽ",
-          "Nhân viên dọn phòng hằng ngày",
-          "Tự do dùng máy giặt,bình lọc nước",
-          "Khu để xe rộng, được camera giám sát.",
-          "⏰ ⏰ môi trường văn minh",
-          "Ngoài ra còn có:",
-          "Camera An ninh, quản lý tâm huyết.",
-          "Không gian bếp lớn đầy đủ thiết bị.",
-          "Có khu phơi quần áo riêng.",
-          "Vị trí ở trung tâm, mức sống dễ chịu, thuận lợi đi lại và ăn uống và rất nhiều các chi nhánh để các chọn lựa gần chỗ làm nơi học.",
-          "Địa chỉ các cơ sở chi nhánh KTX:",
-          "️CN1: 34 đường 36, P. Tân Quy, Q.7",
-          "Các chi nhánh khác:",
-          "️CN2: 1134/14A Huỳnh Tấn Phát, Q.7",
-          "️CN3: Hẻm 350 Huỳnh Tấn Phát, Q.7",
-          "️CN4: 233/11/6 Nguyễn Trãi, P2, Q.5",
-          "️ CN5: 84 Nguyễn Tất Thành, Q.4",
-          "CÒN CHẦN CHỜ GÌ NỮA NHANH TAY LIÊN HỆ CHO MÌNH 1 CHỖ",
-          "Điện thoại: 0931313570"
+          "THÁNG 05 KHAI TRƯƠNG PHÒNG TRỌ",
+          "- Địa chỉ: 17/7 Tân Thuận Tây, P. Bình Thuận, Q.7",
+          "- Vị trí gần đường Huỳnh Tấn Phát - Phú Mỹ rất thuận tiện đi lại, sát Phú Mỹ Hưng, cạnh Khu Chế Xuất Tân Thuận, cách Đh Tôn Đức Thằn, Đh Nguyễn Tất Thành, Đh Marketing chỉ hơn 1 km, qua Q1 Q4 chỉ 10 phút đi xe.",
+          "Tiện nghi nội khu: Phòng có máy lạnh, tủ đồ, kệ giày, kệ bếp, kệ chén,....Khu giặt sấy, bãi xe tòa nhà, wifi, dọn vệ sinh định kì.",
+          "Tiện nghi ngoại khu: Khu vực sầm uất nhiều quán ăn, cafe, gần công viên Hương Tràm",
+          "Phòng mới, nội thất mới, 100%",
+          "Loại phòng: Gác/ Studio",
+          "Diện tích: 20m2 - 25m2",
+          "Giá từ 3tr9 - 4tr2",
+          "Liên hệ ngay với BeLand để được tư vấn thông tin cụ thể nhất",
+          "Hotline: 0345 611 655"
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#294491" },
+          { "name": "Mã tin:", "content": "#623380" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 5, 09:52 08/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 13:16 07/01/2023" }
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 2, 18:36 08/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 2, 18:36 15/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "Hoàng Phúc" },
-          { "name": "Điện thoại:", "content": "0931313570" },
-          { "name": "Zalo", "content": "0931313570" }
+          { "name": "Liên hệ:", "content": "BeLand" },
+          { "name": "Điện thoại:", "content": "0345611655" },
+          { "name": "Zalo", "content": "0345611655" }
         ]
       }
     },
     {
       "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/nguyen-ngoc-21_1670568564.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p3l4pic1-2_1670568566.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p3l4pic2-2_1670568566.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p3l4pic3-2_1670568574.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p3l4pic4-2_1670568574.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p7l1-hinh-11_1670568578.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/nguyen-ngoc-21_1670568564.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/09/p3l4pic1-2_1670568566.jpg"
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/11_1678066681.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/1_1678066663.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/2_1678066663.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/3_1678066671.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/4_1678066672.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/5_1678066673.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/6_1678066675.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/7_1678066676.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/8_1678066677.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/9_1678066678.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/10_1678066680.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/11_1678066681.png",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/03/06/1_1678066663.png"
       ],
       "header": {
-        "title": "Phòng trọ ngay Hàng Xanh, sát bên Hutech, UE, Hồng Bàng",
+        "title": "CHO THUÊ PHÒNG TRỌ, GIỜ TỰ DO, HẦM XE, GÒ VẤP - GẦN CÔNG VIÊN LÀNG HOA",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Gò Vấp",
+          "classType": "Cho thuê phòng trọ Quận Gò Vấp"
+        },
+        "address": "Địa chỉ: 553 Đường Nguyễn Văn Khối, Phường 8, Quận Gò Vấp, Hồ Chí Minh",
+        "attributes": {
+          "price": "3.5 triệu/tháng",
+          "acreage": "12m2",
+          "published": "Hôm nay",
+          "hashtag": "618041"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "THÁNG 4 KHAI TRƯƠNG NHÀ MỚI MẶT TIỀN GÒ VẤP GIÁ CỰC TỐT",
+          "Địa chỉ: 553 Nguyễn Văn Khối P8 Gò Vấp",
+          "Giá: từ 3tr6 đến 4tr2",
+          "Xung quanh nhiều quán ăn, quán cà phê, siêu thị, cửa hàng tiện lợi",
+          "Tiện ích tòa nhà:",
+          "-Wifi",
+          "-Khu giặt sấy",
+          "-Bãi xe",
+          "- Bảo vệ 24/7",
+          "Tiện nghi phòng:",
+          "-Full nội thất cơ bản",
+          "-Có gác lửng tăng diện tích sử dụng",
+          "- Các phòng đều có ban công/cửa sổ",
+          "Các chi phí khác:",
+          "-Điện: 3.700/kwh",
+          "-Nước: 100k/người",
+          "-Phí dịch vụ: 120k/phòng (rác, wifi, giặt sấy,….)",
+          "-Xe: 120k/xe",
+          "Liên hệ: 0345 611 655 - Thư"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#618041" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 2, 18:35 08/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 2, 18:35 15/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "BeLand" },
+          { "name": "Điện thoại:", "content": "0345611655" },
+          { "name": "Zalo", "content": "0345611655" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327079958902-d4c628b8ac8443110edcbbef3df437bc_1683529813.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327079980475-7fe986e8041af1879cc5ff9f7a62bd28_1683529810.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327079988965-4e9641195ff88a7f8300674d886979a6_1683529810.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327080023751-ae08ce4134dde9adc1c22b44c7b7740e_1683529813.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327079958902-d4c628b8ac8443110edcbbef3df437bc_1683529813.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/05/08/z4327079980475-7fe986e8041af1879cc5ff9f7a62bd28_1683529810.jpg"
+      ],
+      "header": {
+        "title": "Phòng Cho Thuê Giá Rẻ Cách Hồ Trúc Bạch 300m - Nhà Mới Sửa, Sạch Sẽ, Có Cửa Sổ, Điều Hòa, Nóng Lạnh",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tây Hồ",
+          "classType": "Cho thuê phòng trọ Quận Tây Hồ"
+        },
+        "address": "Địa chỉ: 32/15 An Dương, Phường Yên Phụ, Quận Tây Hồ, Hà Nội",
+        "attributes": {
+          "price": "3.5 triệu/tháng",
+          "acreage": "35m2",
+          "published": "Hôm nay",
+          "hashtag": "624181"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "Cho Thuê Phòng Giá Rẻ (số lượng có hạn)",
+          "Nhà vừa sửa chưa từng có người ở, mới tinh. Hình chụp thực tế.",
+          "Phòng có cửa sổ xịn, sàn gỗ, điều hòa, bình nước nóng, nước sinh hoạt chảy siêu mạnh, có chỗ để xe rộng rãi, wifi, giờ giấc tự do.",
+          "Vị trí : Phố An Dương – Ngay trung tâm thành phố - Cách Hồ Trúc Bạch 300m . Khu vực dân cư yên tĩnh, nhiều tiện ích, mua sắm mọi thứ dễ dàng, chỉ cần đi bộ",
+          "Địa chỉ : 32/15 An Dương, Yên Phụ, Tây Hồ, Hà Nội",
+          "Giá thuê : 3,500,000 – 4,500,000 (tùy loại phòng)",
+          "Số điện thoại để biết them thông tin hoặc xem phòng : 0932408866 (Mr. Đạt)"
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#624181" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hà Nội" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 2, 14:13 08/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 7, 14:13 13/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Lê Tiến Đạt" },
+          { "name": "Điện thoại:", "content": "0932408866" },
+          { "name": "Zalo", "content": "0932408866" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-51-11_1644282709.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-51-12_1644282665.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/103868605-2668701363453546-4955738518852952165-n_1644282695.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/105274389-763924127748338-2675630982362478613-n_1644282695.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/105275240-391369501821167-1913093323952475181-n_1644282695.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-51-10_1644282696.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-52-15_1644282696.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/104951617-697640117694275-2230424825251480094-n_1644282709.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-51-11_1644282709.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/02/08/photo-2020-06-20-10-51-12_1644282665.jpg"
+      ],
+      "header": {
+        "title": "Ký túc xá ngay đại học tài chính Marketing Tân Bình bao điện nước chỉ 1TR6",
+        "star": "4",
+        "class": {
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Bình",
+          "classType": "Cho thuê phòng trọ Quận Tân Bình"
+        },
+        "address": "Địa chỉ: 50 Đường Phạm Cự Lượng, Phường 2, Quận Tân Bình, Hồ Chí Minh",
+        "attributes": {
+          "price": "1.6 triệu/tháng",
+          "acreage": "30m2",
+          "published": "Hôm nay",
+          "hashtag": "595869"
+        }
+      },
+      "mainContent": {
+        "header": "Thông tin mô tả",
+        "content": [
+          "️️️Giảm 500k tiền phòng cho tháng đầu tiên, đối với các khách hàng ký hợp đồng trong tháng5 /2023️️️(áp dụng thời hạn hợp đồng tối thiểu đến 30/8/2023)",
+          "️️️Giảm100% tiền phòng cho tháng đầu tiên, đối với các khách hàng ký hợp đồng trong tháng5 /2023️️️(áp dụng thời hạn hợp đồng phải đến 30/8/2024)",
+          "Vị trí:",
+          "Gần công viên Hoàng Văn Thụ, Tân Bình.",
+          "- Gần trường Đại học Tài Chính Marketing.",
+          "- Thuận đường đi qua các Quận Bình Thạnh, Phú Nhuận, Quận 3, Quận 10...",
+          "---",
+          "Mỗi bạn một không gian riêng, tủ đồ riêng.",
+          "Bếp sử dụng chung.",
+          "Có máy lạnh, máy giặt.",
+          "Wifi dùng tẹt ga.",
+          "Ra vào bằng cửa khóa vân tay.",
+          "Tòa nhà có thang máy, hầm giữ xe.",
+          "Bảo vệ và quản lý 24/7.",
+          "---",
+          "Giá siêu ưu đãi: Chỉ 1.600.000đ/tháng.",
+          "Bao full chi phí điện nước và internet.",
+          "Địa chỉ: 50 Phạm Cự Lượng, P. 2, Tân Bình."
+        ]
+      },
+      "overview": {
+        "header": "Đặc điểm tin đăng",
+        "content": [
+          { "name": "Mã tin:", "content": "#595869" },
+          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
+          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
+          { "name": "Đối tượng thuê:", "content": "Tất cả" },
+          { "name": "Gói tin:", "content": "Tin VIP 1" },
+          { "name": "Ngày đăng:", "content": "Thứ 6, 19:41 05/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 5, 19:37 25/05/2023" }
+        ]
+      },
+      "contact": {
+        "header": "Thông tin liên hệ",
+        "content": [
+          { "name": "Liên hệ:", "content": "Be Home" },
+          { "name": "Điện thoại:", "content": "0899455299" },
+          { "name": "Zalo", "content": "0899455299" }
+        ]
+      }
+    },
+    {
+      "images": [
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/10/z4098906992993-57ca54f7489f78e6c9533b0016421fb5_1676018298.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/10/z4097732185877-5cb52f1e87f640291bacd1f9c454cfe1_1676018296.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/10/z4097732350392-c349fb297c236fab8c6f53f961abab0b_1676018296.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/10/z4098906992993-57ca54f7489f78e6c9533b0016421fb5_1676018298.jpg",
+        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2023/02/10/z4097732185877-5cb52f1e87f640291bacd1f9c454cfe1_1676018296.jpg"
+      ],
+      "header": {
+        "title": "cho thuê Ký Túc Xá giá 1.5tr bao điện nước",
         "star": "3",
         "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
-          "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
+          "content": "Chuyên mục: Cho thuê phòng trọ Quận Gò Vấp",
+          "classType": "Cho thuê phòng trọ Quận Gò Vấp"
         },
-        "address": "Địa chỉ: 372/41A1 Đường Điện Biên Phủ, Phường 17, Quận Bình Thạnh, Hồ Chí Minh",
+        "address": "Địa chỉ: 80/28 Đường Dương Quảng Hàm, Phường 5, Quận Gò Vấp, Hồ Chí Minh",
         "attributes": {
-          "price": "4 triệu/tháng",
-          "acreage": "18m2",
-          "published": "Hôm nay",
-          "hashtag": "312250"
+          "price": "1.5 triệu/tháng",
+          "acreage": "25m2",
+          "published": "3 giờ trước",
+          "hashtag": "615778"
         }
       },
       "mainContent": {
         "header": "Thông tin mô tả",
         "content": [
-          "- Phòng đủ nội thất (sofa, tủ, nệm, tủ lạnh, bàn ghế, máy nước nóng... ). Diện tích 20m2 (trệt 12m2, gác 8m2)",
-          "Giá:4.500.000 đ/tháng/phòng.",
-          "Cửa vân tay, camera.",
-          "Đi lại 24/24.",
-          "Các chi phí khác.",
-          "Nước 25000 đ/m3.",
-          "Điện 3500 đ/kw.",
-          "Giặt, sấy quần áo: 150.000đ/người.",
-          "Xe 120.000 - 150.000/chiếc.",
-          "Internet miễn phí. LH: 0909630565 hoặc 0909524852",
-          "Địa chỉ: 372/41A1 Điện Biên Phủ, p.17, Bình Thạnh"
+          "Cho thuê Ký Túc Xá cao cấp Mới 100%",
+          "Tại Đường Dương Quảng Hàm,Gò Vấp - Cổng Sau VĂN LANG",
+          "Căn hộ kí Túc Xá CAO CẤP trung tâm Quận Gò Vấp",
+          "Vị trí đắc địa cách đại học ĐH Văn Lang 2 phút,không ngập nước ,khu dân trí cao,an ninh tốt",
+          "Di chuyển : trung tâm các quận 1 chỉ cách 15 phút ,Bình Thạnh 5 phút,cách quận Thủ Đức chỉ 5 phút",
+          "đi đâu cũng gần .",
+          "Phòng : 25-27-30m2",
+          "Tất cả điều có : cửa sổ , có ban công thoáng mát",
+          "Có bếp nấu ăn"
         ]
       },
       "overview": {
         "header": "Đặc điểm tin đăng",
         "content": [
-          { "name": "Mã tin:", "content": "#312250" },
+          { "name": "Mã tin:", "content": "#615778" },
           { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
           { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
           { "name": "Đối tượng thuê:", "content": "Tất cả" },
           { "name": "Gói tin:", "content": "Tin VIP 2" },
-          { "name": "Ngày đăng:", "content": "Thứ 2, 12:08 28/11/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 15:26 24/12/2022" }
+          { "name": "Ngày đăng:", "content": "Thứ 7, 09:03 13/05/2023" },
+          { "name": "Ngày hết hạn:", "content": "Thứ 5, 09:03 18/05/2023" }
         ]
       },
       "contact": {
         "header": "Thông tin liên hệ",
         "content": [
-          { "name": "Liên hệ:", "content": "thule" },
-          { "name": "Điện thoại:", "content": "0938666760" },
-          { "name": "Zalo", "content": "0909630565" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/22/22022018a_1563776434.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/01_1671446119.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/03_1671446119.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/04_1671446119.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/05_1671446120.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/06_1671446120.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/02/20/s602-1_1582191522.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/02/20/s602-2_1582191523.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/02/20/s402-2_1582191574.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/02/20/s402_1582191574.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/08/26/s302-2_1598414080.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/08/26/s302-4_1598414080.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/30/58419661-1287873858037546-6504995941391532032-n_1564462799.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/04/16/img-7013_1555390970.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/08/26/093_1598414064.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/22/44830366-2412801459042534-818280764121546752-o_1563776435.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/22/anh-1-153058562142436977712_1563776436.png",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/22/c10a2b048c1d498c9ed9aa79be3d6260_1563776437.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/30/bach-hoa-xanh_1564462866.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2019/07/22/22022018a_1563776434.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/01_1671446119.jpg"
-      ],
-      "header": {
-        "title": "⭐⭐⭐ Phòng Cao Cấp Full nội thất ngay Pearl plaza - D1, BÌNH THẠNH ⭐⭐⭐",
-        "star": "2",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
-          "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
-        },
-        "address": "Địa chỉ: 71/1 Đường D1( Nguyễn Văn Thương), Phường 25, Quận Bình Thạnh, Hồ Chí Minh",
-        "attributes": {
-          "price": "6 triệu/tháng",
-          "acreage": "25m2",
-          "published": "21 phút trước",
-          "hashtag": "280431"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "NHÀ NẰM Ở VỊ TRÍ ĐẸP, THUẬN TIỆN",
-          "Cách trung tâm Q1, Q2, Q3, Phú Nhuận 5-10 phút di chuyển (đường rộng, không bị kẹt xe, không ngập nước)",
-          "Đường nội bộ xe tải, đối diện chung cư Wilton Tower, luôn mát mẻ.",
-          "Khu dân cư an ninh, yên tĩnh, dân trí cao.",
-          "300m tới chợ Văn Thánh, Siêu Thị CoopMart, Bách Hóa Xanh.",
-          "200m tới PEARL PLAZA, 1km tới VINHOMES CENTRAL PARK.",
-          "Trước cửa nhà là cửa hàng tiện lợi 24h GS 25, Circle K, nhà thuốc Pharmacity.",
-          "Xung quanh có nhiều quán cà phê, ăn uống.",
-          "Thông qua đường D2, Ung Văn Khiêm đến các trường Đại học: Hutech, Giao thông vận tải, Ngoại thương, Hồng Bàng,…",
-          "PHÒNG MỚI - ĐẸP - ĐẦY ĐỦ TIỆN NGHI",
-          "️ Giường, nệm cao cấp.",
-          "️ WC riêng với trang thiết bị cao cấp.",
-          "️ Bàn, ghế làm việc hiện đại.",
-          "️ Tủ lạnh, Máy lạnh.",
-          "️ Tủ quần áo âm tường.",
-          "️ Bancon, cửa sổ thoáng mát, View Landmark 81 đẹp mắt.",
-          "️ Sofa băng dài cho bạn thư giãn.",
-          "️ Smart Tivi 32 inch kết nối internet thỏa sức lướt web xem phim.",
-          "MÁY NƯỚC NÓNG: năng lượng mặt trời (không tốn điện)",
-          "MÁY GIẶT SẤY: chỉ cần 1 thao tác không tốn thời gian.",
-          "THANG MÁY: di chuyển thuận tiện.",
-          "Internet cáp quang. Truyền hình cáp.",
-          "Giờ giấc tự do, không chung chủ, cửa vân tay, Camera an ninh 24/24",
-          "Dọn vệ sinh hàng tuần (khu vực chung).",
-          "Giá từ 6 đến 7tr",
-          "Địa chỉ: 71/ Nguyễn Văn Thương( D1 Cũ), P25, Q Bình Thạnh.",
-          "(Ảnh thực tế)",
-          "****** Liên hệ: Mr.Thoai – 0962 42 42 61"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#280431" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 3" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 11:45 21/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 17:26 24/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Thoại" },
-          { "name": "Điện thoại:", "content": "0962424261" },
-          { "name": "Zalo", "content": "0962424261" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501470046019-f5600b9ae478a7c9dfc8a4ef07a9d738_1655526801.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/sdsadsag_1671446427.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/dhjhdsa_1671446424.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501469368591-cbca7dc72b971c3ac5c472a347878bc6_1655526802.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501469359748-c3b3deeaa268195749327501fd4282a2_1655526806.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501468987755-9b6d1b4e83049151b32ba5ca15636abe_1655526805.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501469068676-6bc766b97252afcc6316721e5666925e_1655526805.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501469107378-5090a462b4bafda001021acc119e2062_1655526805.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501470037877-284255d0afba140185785a6546d67dce_1655526801.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501470046016-1ad69c3de63cd8f2595abd1da550b84b_1655526801.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/06/18/z3501470046019-f5600b9ae478a7c9dfc8a4ef07a9d738_1655526801.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2022/12/19/sdsadsag_1671446427.jpg"
-      ],
-      "header": {
-        "title": "⭐ Phòng ĐỐI DIỆN LANDMARK 81, GÂN PEARL PLAZA ⭐",
-        "star": "2",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Bình Thạnh",
-          "classType": "Cho thuê phòng trọ Quận Bình Thạnh"
-        },
-        "address": "Địa chỉ: 135/37 Nguyễn Hữu Cảnh, Phường 22, Quận Bình Thạnh, Hồ Chí Minh",
-        "attributes": {
-          "price": "6.2 triệu/tháng",
-          "acreage": "26m2",
-          "published": "22 phút trước",
-          "hashtag": "238288"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "[English caption below]",
-          "NHÀ NẰM Ở VỊ TRÍ ĐẸP, THUẬN TIỆN",
-          "- Đường NỘI BỘ rộng rãi (xe tải), khu dân cư an ninh, dân trí cao, gần chợ, siêu thị tiện lợi cách nhà chỉ vài mét: Vinmart+, G25.",
-          "- Gần công viên, khu giải trí, bờ sông Vincom Central Park (theo phong cách công viên trung tâm New York).",
-          "- Cách trung tâm Q1, Q2, Q3 Phú Nhuận 3-5 phút di chuyển (đường rộng, không bị kẹt xe).",
-          "- Gần trường ĐH Hutech, Đại học Ngoại Thương, Hồng Bàng.",
-          "- Ngay cạnh khu trung tâm mua sắm Pearl Plaza (Coopmart Extra), Saigon Pearl, Vincom Landmark 81.",
-          "- Nhiều dịch vụ ăn uống giải trí xung quanh",
-          "PHÒNG ĐẦY ĐỦ NỘI THẤT",
-          "- Giường, nệm cao cấp ga gối.",
-          "- WC riêng với trang thiết bị cao cấp, vòi sen, nước nóng NLMT (không tốn điện)",
-          "️- Bàn, ghế làm việc hiện đại.",
-          "️- Tủ quần áo.",
-          "- Kệ TV, Smart TV",
-          "️- Tủ lạnh, máy lạnh.",
-          "- Bếp nấu ăn",
-          "GIÁ ĐÃ BAO GỒM TẤT CẢ CÁC DỊCH VỤ, TIỆN ÍCH SAU:",
-          "-----------------------------------------------------------------------------------------------------------------",
-          "- Máy giặt, máy sấy quần áo.",
-          "- Bào trì, sữa chữa.",
-          "- Chỗ để xe rộng rãi.",
-          "- Cửa vân tay an ninh",
-          "- Camera 24/24 (Khu nhà xe và những khu vực chung).",
-          "- Dọn vệ sinh hàng tuần (khu vực chung) và thu gom rác hàng ngày.",
-          "- Giờ giấc tự do, không chung chủ.",
-          "-----------------------------------------------------------------------------------------------------------------",
-          "Giá 6tr2 đến 7tr2",
-          "Địa chỉ: 135/37 Nguyễn Hữu Cảnh, P22, Q Bình Thạnh.",
-          "Liên hệ: A Thoại - 0962 42 42 61",
-          "========================================================================",
-          "ROOM FOR RENT",
-          "* GREAT LOCATION:",
-          "- 10 Mins to the city's center, such as Districts 1, 2, 3, and Phu Nhuan.",
-          "- Wide alley (Quiet and safe)",
-          "- Nearby lots of convenience stores, pharma stores, and coffee shops.",
-          "- 200m to Supermarket, Malls, Gym Center and Eaters.",
-          "- Nearby to many universities.",
-          "Furniture:",
-          "- Bed, Mattress, Sheet, Blanket, and Pillows.",
-          "- Private toilet with hot water shower (SES)",
-          "- Working desk",
-          "- Fridge and AC",
-          "- Closet",
-          "- Smart TV",
-          "-----------------------------------------------------------",
-          "Shared Washer-Dryer",
-          "Fast Internet.",
-          "Finger-print door.",
-          "Camera 24/7 for common area.",
-          "Cleaning for common area weekly.",
-          "24/7 Access, Free Parking.",
-          "-----------------------------------------------------------",
-          "Address: 135/37/ Nguyen Huu Canh St., Binh Thanh District, HCMC",
-          "Price: From 6.2 - 7.2 mil"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#238288" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 3" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 11:45 21/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 7, 17:24 24/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "Thoại" },
-          { "name": "Điện thoại:", "content": "0962424261" },
-          { "name": "Zalo", "content": "0962424261" }
-        ]
-      }
-    },
-    {
-      "images": [
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/24/2020-08-17-14-34-img-9261_1635048903.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-26-16-39-img-9559_1601370256.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-29-11-09-img-9578_1601370256.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-29-11-09-img-9579_1601370259.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-26-16-38-img-9556_1601370272.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-26-16-38-img-9558_1601370272.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-29-11-08-img-9570_1601370277.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-29-11-08-img-9571_1601370278.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-29-11-08-img-9575_1601370279.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-26-16-38-img-9555_1601370281.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2021/10/24/2020-08-17-14-34-img-9261_1635048903.jpg",
-        "https://pt123.cdn.static123.com/images/thumbs/900x600/fit/2020/09/29/2020-09-26-16-39-img-9559_1601370256.jpg"
-      ],
-      "header": {
-        "title": "PHÒNG TRỌ RẤT ĐẸP: MÁY LẠNH + TỦ LẠNH, MÁY GIẶT, GÁC LỬNG + BẾP,.......GẦN AEON MALL",
-        "star": "2",
-        "class": {
-          "content": "Chuyên mục: Cho thuê phòng trọ Quận Tân Phú",
-          "classType": "Cho thuê phòng trọ Quận Tân Phú"
-        },
-        "address": "Địa chỉ: 58/25 Đường Hoa Bằng, Phường Tân Sơn Nhì, Quận Tân Phú, Hồ Chí Minh",
-        "attributes": {
-          "price": "2.6 triệu/tháng",
-          "acreage": "25m2",
-          "published": "1 giờ trước",
-          "hashtag": "311774"
-        }
-      },
-      "mainContent": {
-        "header": "Thông tin mô tả",
-        "content": [
-          "- HOT - CHO THUÊ PHÒNG TRỌ MỚI TINH, phòng đẹp như hình đăng, CÓ MÁY LẠNH, TỦ LẠNH, MÁY GIẶT, GÁC LỬNG + KỆ BẾP.......",
-          "- Vị trí gần siêu thị AEON MALL Tân Phú, gần các đường như: Tân Kỳ Tân Qúy, Tân Sơn Nhì,.......",
-          "-------GIÁ PHÒNG--------",
-          "+ Phòng: 2.6tr/tháng",
-          "+ Phòng: 2.9tr - 3.4tr/tháng - (CÓ MÁY LẠNH + GÁC, BẾP)",
-          "+ Phòng: 3.5tr - 3.8tr/tháng - (CÓ MÁY LẠNH + BAN CÔNG + GÁC, BẾP)",
-          "-------------",
-          "- TIỆN ÍCH:",
-          "+ Nhà mới tinh, rất đẹp, khu dân cư yên tĩnh dân trí cao",
-          "+ Diện tích từ 25m2 - 30m2",
-          "+ CÓ 2 LOẠI PHÒNG: KIỂU CÓ MÁY LẠNH, TỦ LẠNH, VÀ KIỂU CÓ GÁC LỬNG......",
-          "+ Phòng có ban công, cửa sổ tùy mỗi kiểu, WC riêng mỗi phòng.",
-          "+ CÓ MÁY GIẶT ở mỗi lầu",
-          "+ GIỜ GIẤC TỰ DO, về lúc nào cũng được.",
-          "+ Không thu phí xe. Riêng biệt thoải mái.",
-          "+ Wifi Free, Có sân thượng phơi đồ ngay mỗi lầu cạnh máy giặt",
-          "+ Nhà xe có camera chống trộm. Cửa ra vào mở bằng Khóa vân tay hiện đại và rất an toàn,",
-          "+ Khu vực dân trí cao, gần chợ, vào trung tâm chỉ vài phút.....",
-          "+ Không gian rất lý tưởng để ở.",
-          "------- GỌI NGAY: --- 0938.032.965 -- để xem phòng, (XIN GỌI HẸN TRƯỚC)",
-          "- Địa chỉ: 58/25 Hoa Bằng, Tân Phú - (gần siêu thị nhật AEON MALL )"
-        ]
-      },
-      "overview": {
-        "header": "Đặc điểm tin đăng",
-        "content": [
-          { "name": "Mã tin:", "content": "#311774" },
-          { "name": "Khu vực", "content": "Cho thuê phòng trọ Hồ Chí Minh" },
-          { "name": "Loại tin rao:", "content": "Phòng trọ, nhà trọ" },
-          { "name": "Đối tượng thuê:", "content": "Tất cả" },
-          { "name": "Gói tin:", "content": "Tin VIP 3" },
-          { "name": "Ngày đăng:", "content": "Thứ 4, 10:54 21/12/2022" },
-          { "name": "Ngày hết hạn:", "content": "Thứ 4, 10:54 28/12/2022" }
-        ]
-      },
-      "contact": {
-        "header": "Thông tin liên hệ",
-        "content": [
-          { "name": "Liên hệ:", "content": "quản lý" },
-          { "name": "Điện thoại:", "content": "0938032965" },
-          { "name": "Zalo", "content": "0938032965" }
+          { "name": "Liên hệ:", "content": "Anh Phi" },
+          { "name": "Điện thoại:", "content": "0909151797" },
+          { "name": "Zalo", "content": "0909151797" }
         ]
       }
     }

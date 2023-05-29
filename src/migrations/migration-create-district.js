@@ -5,7 +5,6 @@ module.exports = {
         await queryInterface.createTable('Districts', {
             id: {
                 allowNull: false,
-                primaryKey: true,
                 type: Sequelize.INTEGER,
                 autoIncrement: true
             },
@@ -13,6 +12,7 @@ module.exports = {
                 type: Sequelize.STRING
             },
             code: {
+                primaryKey: true,
                 type: Sequelize.STRING
             },
             value: {

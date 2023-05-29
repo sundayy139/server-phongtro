@@ -18,6 +18,7 @@ const io = new Server(httpServer, {
     }
 });
 
+
 app.use(cors({
     origin: '*',
     methods: ['GET', 'POST', 'PUT', 'DELETE']
@@ -30,18 +31,18 @@ initRoutes(app)
 connect()
 
 
-io.on("connection", (socket) => {
-    socket.on('disconnect', () => {
-    })
+// io.on("connection", (socket) => {
+//     socket.on('disconnect', () => {
+//     })
 
-    socket.on('newReportCreated', (data) => {
-        socket.broadcast.emit('newReport', data);
-    })
+//     socket.on('newReportCreated', (data) => {
+//         socket.broadcast.emit('newReport', data);
+//     })
 
-    socket.on('newPostCreated', (data) => {
-        socket.broadcast.emit('newPost', data);
-    })
-});
+//     socket.on('newPostCreated', (data) => {
+//         socket.broadcast.emit('newPost', data);
+//     })
+// });
 
 
 httpServer.listen(port, () => {

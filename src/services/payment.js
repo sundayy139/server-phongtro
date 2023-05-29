@@ -181,7 +181,6 @@ export const paymentReturnService = (params, id) => {
     })
 }
 
-
 export const paymentHistoryService = (id) => {
     return new Promise(async (resolve, reject) => {
         try {
@@ -194,7 +193,8 @@ export const paymentHistoryService = (id) => {
                 const history = await db.Payment.findAll({
                     where: {
                         userId: id
-                    }
+                    },
+                    order: [['createdAt', 'DESC']]
                 })
                 resolve({
                     err: 0,
@@ -227,29 +227,28 @@ export const getPaymentSuccessService = () => {
     })
 }
 
-export const getPaymentByMonthService = (status, month, year) => {
+export const getTotalPaymentService = () => {
     return new Promise(async (resolve, reject) => {
-        const queries = {}
-        if (status) queries.statusCode = status
         try {
-            if (!month && !year) {
-                resolve({
-                    err: 1,
-                    msg: "Có lỗi gì đó rồi",
-                })
-            } else {
-                const payments = await db.Payment.findAll({
-                    where: sequelize.and(
-                        sequelize.where(sequelize.fn('date_part', 'year', sequelize.col('createdAt')), year),
-                        sequelize.where(sequelize.fn('date_part', 'month', sequelize.col('createdAt')), month),
-                        queries
-                    ),
-                });
+            const posts = await db.Post.findAll();
+            if (posts && posts.length > 0) {
+                let payments = posts.reduce((total, obj) => {
+                    let priceOrder = obj.priceOrder
+                    let totalDay = + moment(obj.expiredAt).diff(moment(obj.createdAt), 'days');
+                    let result = priceOrder * totalDay;
+                    return total + result;
+                }, 0);
 
                 resolve({
-                    err: payments ? 0 : 2,
-                    msg: payments ? "Thành công" : "Không lấy được thanh toán",
+                    err: 0,
+                    msg: "Thành công",
                     payments
+                })
+            } else {
+                resolve({
+                    err: 0,
+                    msg: "Thành công",
+                    payments: 0
                 })
             }
         } catch (e) {
@@ -258,11 +257,57 @@ export const getPaymentByMonthService = (status, month, year) => {
     })
 }
 
-// GET TOTAL PAYMENT BY MONTH ADMIN
-export const getTotalPaymentByMonthService = (status) => {
+export const getPaymentByMonthService = (categoryCode, month, year) => {
     return new Promise(async (resolve, reject) => {
         const queries = {}
-        if (status) queries.statusCode = status
+        if (categoryCode) queries.categoryCode = categoryCode
+        try {
+            if (!month && !year) {
+                resolve({
+                    err: 1,
+                    msg: "Có lỗi gì đó rồi",
+                })
+            } else {
+                const posts = await db.Post.findAll({
+                    where: sequelize.and(
+                        sequelize.where(sequelize.fn('date_part', 'year', sequelize.col('createdAt')), year),
+                        sequelize.where(sequelize.fn('date_part', 'month', sequelize.col('createdAt')), month),
+                        queries
+                    ),
+                });
+
+                if (posts && posts.length > 0) {
+                    let payments = posts.reduce((total, obj) => {
+                        let order = obj.order === 3 ? 20000 : obj.order === 2 ? 10000 : 2000;
+                        let totalDay = + moment(obj.expiredAt).diff(moment(obj.createdAt), 'days');
+                        let result = order * totalDay;
+                        return total + result;
+                    }, 0);
+
+                    resolve({
+                        err: 0,
+                        msg: "Thành công",
+                        payments
+                    })
+                } else {
+                    resolve({
+                        err: 0,
+                        msg: "Thành công",
+                        payments: 0
+                    })
+                }
+            }
+        } catch (e) {
+            reject(e);
+        }
+    })
+}
+
+// GET TOTAL PAYMENT BY MONTH ADMIN
+export const getTotalPaymentByMonthService = (categoryCode) => {
+    return new Promise(async (resolve, reject) => {
+        const queries = {}
+        if (categoryCode) queries.categoryCode = categoryCode
         try {
             const totalPayments = [];
             const firstMonth = (new Date(new Date().getFullYear(), 0));
@@ -271,25 +316,47 @@ export const getTotalPaymentByMonthService = (status) => {
                 firstMonth.setMonth(firstMonth.getMonth() + 1)
             }
 
-            const results = await db.Payment.findAll({
-                attributes: [
-                    [sequelize.literal(`to_char("createdAt", 'MM/YYYY')`), 'month'],
-                    [sequelize.fn('sum', sequelize.cast(sequelize.col('amount'), 'integer')), 'total']
-                ],
-                group: ['month'],
+            const posts = await db.Post.findAll({
                 raw: true,
-                where: queries
+                where: queries,
+                attributes: ['createdAt', 'expiredAt', 'order', 'priceOrder']
             });
 
-            results.forEach(payment => {
-                const resultItem = totalPayments.find(item => item.month === payment.month);
-                if (resultItem) {
-                    resultItem.total = payment.total;
+            // Lấy ra tất cả bài đăng theo ngày kèm giá tiền và số ngày
+            posts.forEach(post => {
+                post.totalDay = + moment(post.expiredAt).diff(moment(post.createdAt), 'days');
+            })
+
+            // Tính tổng tiền theo tháng rồi gộp lại
+            const totalsByMonthYear = [];
+            posts.forEach(obj => {
+                const createdAt = new Date(obj.createdAt);
+                const month = String(createdAt.getMonth() + 1).padStart(2, '0');; // Tháng bắt đầu từ 0, nên cần +1 để đúng tháng trong năm
+                const year = createdAt.getFullYear();
+                const key = `${month}/${year}`;
+
+                const existingObj = totalsByMonthYear.find(item => item.month === key);
+                if (existingObj) {
+                    existingObj.total += obj.priceOrder * obj.totalDay;
+                } else {
+                    totalsByMonthYear.push({
+                        month: key,
+                        total: obj.priceOrder * obj.totalDay
+                    });
                 }
             });
+
+            totalsByMonthYear.forEach(obj => {
+                const resultItem = totalPayments.find(item => item.month === obj.month);
+                if (resultItem) {
+                    resultItem.total = obj.total;
+                }
+            });
+
+
             resolve({
                 err: totalPayments ? 0 : 1,
-                msg: totalPayments ? "Thành công" : "Không lấy được bài đăng",
+                msg: totalPayments ? "Thành công" : "Không lấy được ",
                 totalPayments
             })
         } catch (e) {
@@ -299,11 +366,11 @@ export const getTotalPaymentByMonthService = (status) => {
 }
 
 // GET TOTAL PAYMENT BY DAY ADMIN
-export const getTotalPaymentByDayService = (status, startDate, endDate) => {
+export const getTotalPaymentByDayService = (categoryCode, startDate, endDate) => {
     return new Promise(async (resolve, reject) => {
         try {
             const queries = {}
-            if (status) queries.statusCode = status
+            if (categoryCode) queries.categoryCode = categoryCode
             if (startDate && endDate) {
                 queries.createdAt =
                 {
@@ -318,18 +385,43 @@ export const getTotalPaymentByDayService = (status, startDate, endDate) => {
                 paymentsDay.push({ date: moment(moment.utc(currentDate)).local().format('DD/MM'), total: 0 });
                 currentDate.setDate(currentDate.getDate() + 1);
             }
-            const results = await db.Payment.findAll({
+
+            const posts = await db.Post.findAll({
+                raw: true,
                 where: queries,
-                raw: true
+                attributes: ['createdAt', 'expiredAt', 'order', 'priceOrder']
             });
 
-            results.forEach(payment => {
-                const paymentDate = moment(moment.utc(payment.createdAt)).local().format('DD/MM');
-                const resultItem = paymentsDay.find(item => item.date === paymentDate);
-                if (resultItem) {
-                    resultItem.total += +payment.amount;
+            // Lấy ra tất cả bài đăng theo ngày kèm giá tiền và số ngày
+            posts.forEach(post => {
+                post.totalDay = + moment(post.expiredAt).diff(moment(post.createdAt), 'days');
+            })
+
+            const totalsByDay = [];
+            posts.forEach(obj => {
+                const createdAt = new Date(obj.createdAt);
+                const month = String(createdAt.getMonth() + 1).padStart(2, '0');; // Tháng bắt đầu từ 0, nên cần +1 để đúng tháng trong năm
+                const day = String(createdAt.getDate()).padStart(2, '0')
+                const key = `${day}/${month}`;
+
+                const existingObj = totalsByDay.find(item => item.date === key);
+                if (existingObj) {
+                    existingObj.total += obj.priceOrder * obj.totalDay;
+                } else {
+                    totalsByDay.push({
+                        date: key,
+                        total: obj.priceOrder * obj.totalDay
+                    });
                 }
             });
+
+            totalsByDay.forEach(obj => {
+                const resultItem = paymentsDay.find(item => item.date === obj.date);
+                if (resultItem) {
+                    resultItem.total = obj.total;
+                }
+            });
+
             resolve({
                 err: paymentsDay ? 0 : 1,
                 msg: paymentsDay ? "Thành công" : "Không lấy được bài đăng",

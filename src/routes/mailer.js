@@ -3,6 +3,7 @@ import * as mailController from '../controller/mailer'
 
 const router = express.Router()
 
-router.post('/registerMail', mailController.registerMail)
+router.post('/register', mailController.registerMail)
+router.post('/contact', mailController.contactMail)
 
 export default router

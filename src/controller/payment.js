@@ -51,10 +51,22 @@ export const getPaymentSuccess = async (req, res, next) => {
     }
 }
 
-export const getPaymentByMonth = async (req, res, next) => {
-    const { status, month, year } = req.query
+export const getTotalPayment = async (req, res) => {
     try {
-        let response = await paymentService.getPaymentByMonthService(status, month, year);
+        const response = await paymentService.getTotalPaymentService();
+        return res.status(200).json(response)
+    } catch (error) {
+        res.status(500).json({
+            err: -1,
+            msg: 'Fail at payment controller' + error + '1'
+        })
+    }
+}
+
+export const getPaymentByMonth = async (req, res, next) => {
+    const { categoryCode, month, year } = req.query
+    try {
+        let response = await paymentService.getPaymentByMonthService(categoryCode, month, year);
         return res.status(200).json(response);
     } catch (error) {
         res.status(500).json({
@@ -79,8 +91,8 @@ export const getTotalPaymentByMonth = async (req, res) => {
 
 export const getTotalPaymentByDay = async (req, res) => {
     try {
-        const { status, startDate, endDate } = req.query
-        const response = await paymentService.getTotalPaymentByDayService(status, startDate, endDate);
+        const { categoryCode, startDate, endDate } = req.query
+        const response = await paymentService.getTotalPaymentByDayService(categoryCode, startDate, endDate);
         return res.status(200).json(response)
     } catch (error) {
         res.status(500).json({
@@ -89,3 +101,4 @@ export const getTotalPaymentByDay = async (req, res) => {
         })
     }
 }
+

@@ -1,5 +1,6 @@
 import db from "../models/index";
 import { v4 as generateId } from 'uuid'
+import * as mailService from '../services/mailer';
 
 // CREATE REPORT
 export const createReportService = (postId, content, id) => {
@@ -75,6 +76,21 @@ export const updateStatusService = (reportId, status) => {
                 } else {
                     report.statusCode = status
                     await report.save()
+                    const user = await db.User.findOne({
+                        where: {
+                            id: report.userId,
+                        }
+                    })
+                    const post = await db.Post.findOne({
+                        where: {
+                            id: report.postId,
+                        }
+                    })
+
+                    if (post && user) {
+                        await mailService.sendMailConfirmReport(user.email, user.name, post.title, report.createdAt)
+                    }
+
                     resolve({
                         err: 0,
                         msg: 'Cập nhật trạng thái thành công',
